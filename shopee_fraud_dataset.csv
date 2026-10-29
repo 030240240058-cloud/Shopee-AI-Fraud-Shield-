@@ -1,0 +1,1001 @@
+﻿order_id,customer_id,customer_name,tier,product,price,reason,freq_30d,return_rate,order_dev,claim_delay_hours,evidence_conf,device_hash,is_fraud
+ORD-10010,CUST-1010,Vũ Thu Hà,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,9.8,0.6,1.0,77%,device_6313_normal,0
+ORD-10360,CUST-1360,Hoàng Quốc Bảo,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Loa rè âm bass và sập nguồn liên tục,3.0,2.4,1.07,2.0,70%,device_2468_normal,0
+ORD-10143,CUST-1143,Dương Minh Khôi,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,5.0,1.88,7.2,82%,device_6881_normal,0
+ORD-10245,CUST-1245,Bùi Văn Lâm,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Lòng nồi bị trầy xước lớp chống dính,1.0,15.7,1.67,1.0,82%,device_2929_normal,0
+ORD-10604,CUST-1054,Võ Quỳnh Chi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,1.6,1.63,24.0,84%,device_7626_normal,0
+ORD-10580,CUST-1030,Mai Thu Hà,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,11.9,1.33,13.3,73%,device_6771_normal,0
+ORD-10237,CUST-1237,Lý Hải Đăng,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,0.8,1.3,19.1,93%,device_7955_normal,0
+ORD-10589,CUST-1039,Lâm Quỳnh Chi,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Đế giày sneaker bị hở keo ở mũi chân,2.0,22.8,0.87,4.6,76%,device_5819_normal,0
+ORD-10132,CUST-1132,Phạm Minh Khôi,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Loa rè âm bass và sập nguồn liên tục,1.0,4.9,1.75,8.4,70%,device_3361_normal,0
+ORD-10824,CUST-1274,Bùi Bảo Vy,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Loa rè âm bass và sập nguồn liên tục,1.0,10.3,1.57,26.2,93%,device_6119_normal,0
+ORD-10844,CUST-1294,Hoàng Mỹ Duyên,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,8.4,1.62,80.7,76%,device_4369_normal,0
+ORD-10289,CUST-1289,Phan Đức Trí,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Tai nghe bên trái không sạc được pin,3.0,8.6,0.96,1.2,74%,device_2789_normal,0
+ORD-10782,CUST-1232,Vũ Gia Huy,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Cối xay rò rỉ nước ở chân đế trục dao,2.0,9.6,0.6,53.1,82%,device_6126_normal,0
+ORD-10832,CUST-1282,Lê Quang Vinh,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,1.3,2.01,20.6,96%,device_8672_normal,0
+ORD-10534,CUST-1534,Lý Hoài An,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,8.7,0.99,19.9,90%,device_8035_normal,0
+ORD-10361,CUST-1361,Đỗ Quỳnh Chi,Kim Cương VIP,Serum B5 Phục Hồi Da Nhạy Cảm,539600,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,6.6,0.74,16.6,83%,device_7353_normal,0
+ORD-10314,CUST-1314,Đỗ Hồng Nhung,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,4.9,1.75,1.7,91%,device_9835_normal,0
+ORD-10869,CUST-1319,Vũ Ngọc Ánh,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,3.9,1.05,2.3,86%,device_8122_normal,0
+ORD-10773,CUST-1223,Hoàng Gia Huy,Khách Hàng Mới,Balo Laptop Chống Nước Đa Năng,380000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,8.9,1.99,22.0,88%,device_3589_normal,0
+ORD-10613,CUST-1063,Trịnh Phương Thảo,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,3.2,1.7,10.0,71%,device_9992_normal,0
+ORD-10452,CUST-1452,Trịnh Thị Mai,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,15.5,1.74,59.8,81%,device_7492_normal,0
+ORD-10683,CUST-1133,Phan Phương Thảo,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,312800,Khóa kéo balo bị gãy răng cưa khi thử,0.0,10.8,0.6,12.5,78%,device_6914_normal,0
+ORD-10141,CUST-1141,Võ Mỹ Duyên,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,9.3,2.09,3.7,75%,device_2210_normal,0
+ORD-10059,CUST-1059,Đỗ Gia Huy,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1065000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,15.1,1.47,30.1,97%,device_3041_normal,0
+ORD-10764,CUST-1214,Phạm Văn Hùng,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,864500,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,1.1,1.06,8.3,86%,device_2631_normal,0
+ORD-10128,CUST-1128,Hoàng Bảo Vy,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,2.3,1.39,17.9,87%,device_7180_normal,0
+ORD-10647,CUST-1097,Ngô Tuấn Kiệt,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,492900,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,11.2,0.6,28.7,73%,device_9515_normal,0
+ORD-10432,CUST-1432,Đinh Hoài An,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Lòng nồi bị trầy xước lớp chống dính,0.0,4.1,1.57,55.3,93%,device_5403_normal,0
+ORD-10662,CUST-1112,Vũ Cẩm Ly,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,4.6,0.63,37.7,78%,device_3867_normal,0
+ORD-10340,CUST-1340,Trần Phương Thảo,Khách Hàng Bạc,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,2.0,0.6,27.1,70%,device_7756_normal,0
+ORD-10335,CUST-1335,Bùi Quang Vinh,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,3.2,0.6,27.3,93%,device_3390_normal,0
+ORD-10430,CUST-1430,Phạm Bảo Vy,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,15.8,2.02,70.0,91%,device_3877_normal,0
+ORD-10579,CUST-1029,Phan Đức Trí,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,11.0,0.89,8.4,91%,device_3173_normal,0
+ORD-10242,CUST-1242,Huỳnh Văn Hùng,Kim Cương VIP,Serum B5 Phục Hồi Da Nhạy Cảm,843600,Khóa kéo balo bị gãy răng cưa khi thử,3.0,8.8,2.3,1.0,72%,device_4866_normal,0
+ORD-10123,CUST-1123,Huỳnh Thảo Nhi,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,3.0,4.7,0.95,7.6,96%,device_2858_normal,0
+ORD-10029,CUST-1029,Đỗ Gia Huy,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,8.4,0.6,5.9,90%,device_2612_normal,0
+ORD-10101,CUST-1101,Trịnh Thảo Nhi,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Bàn phím bị kẹt liệt hàng phím số,0.0,16.7,0.6,26.0,81%,device_3939_normal,0
+ORD-10296,CUST-1296,Trần Văn Hùng,Kim Cương VIP,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,4.2,2.1,24.1,90%,device_9901_normal,0
+ORD-10419,CUST-1419,Hoàng Hữu Thắng,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,750000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,7.5,1.2,21.6,74%,device_5059_normal,0
+ORD-10803,CUST-1253,Đặng Đình Trọng,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,297600,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,23.7,0.94,1.0,86%,device_4438_normal,0
+ORD-10894,CUST-1344,Trần Duy Khoa,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,12.7,1.4,31.3,92%,device_3138_normal,0
+ORD-10164,CUST-1164,Võ Minh Khôi,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Tai nghe bên trái không sạc được pin,0.0,4.8,1.63,9.4,75%,device_2801_normal,0
+ORD-10150,CUST-1150,Phan Hoàng Nam,Khách Hàng Bạc,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,12.0,2.03,26.3,78%,device_3695_normal,0
+ORD-10749,CUST-1199,Trần Mỹ Duyên,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,1.6,2.24,19.5,88%,device_9269_normal,0
+ORD-10068,CUST-1068,Ngô Cẩm Tú,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,7.2,1.07,10.1,97%,device_2988_normal,0
+ORD-10018,CUST-1018,Đặng Gia Huy,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,293530,Bình đun nước tự ngắt sớm trước khi sôi,1.0,12.0,0.6,3.5,86%,device_3927_normal,0
+ORD-10820,CUST-1270,Lê Bảo Vy,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,10.2,1.03,2.4,74%,device_4116_normal,0
+ORD-10316,CUST-1316,Hoàng Duy Khoa,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,11.9,1.47,42.7,79%,device_8585_normal,0
+ORD-10588,CUST-1038,Nguyễn Duy Khoa,Kim Cương VIP,Serum B5 Phục Hồi Da Nhạy Cảm,1090600,Khóa kéo balo bị gãy răng cưa khi thử,0.0,13.8,0.67,60.1,90%,device_7025_normal,0
+ORD-10841,CUST-1291,Lâm Phương Thảo,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,10.7,0.68,25.2,87%,device_2599_normal,0
+ORD-10848,CUST-1298,Vũ Gia Huy,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Robot báo lỗi cảm biến laser Lidar liên tục,3.0,10.5,1.52,2.6,82%,device_7652_normal,0
+ORD-10091,CUST-1091,Mai Tuấn Kiệt,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Tai nghe bên trái không sạc được pin,1.0,9.0,1.27,12.3,84%,device_8136_normal,0
+ORD-10784,CUST-1234,Đinh Minh Anh,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Giao nhầm kích cỡ (đặt size L giao size M),3.0,2.9,1.32,31.3,77%,device_9498_normal,0
+ORD-10422,CUST-1422,Vũ Đình Trọng,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Chất kem mỹ phẩm tách nước đổi màu bất thường,2.0,15.8,0.81,36.3,72%,device_9655_normal,0
+ORD-10887,CUST-1337,Đỗ Quỳnh Chi,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,7.4,1.15,3.0,94%,device_5750_normal,0
+ORD-10840,CUST-1290,Ngô Nhật Nam,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Gối có mùi cao su nồng gắt gây khó chịu,3.0,12.5,0.7,1.0,91%,device_2276_normal,0
+ORD-10285,CUST-1285,Trịnh Đình Trọng,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,14.7,1.88,29.9,79%,device_5735_normal,0
+ORD-10414,CUST-1414,Đinh Mỹ Duyên,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,5.0,1.97,10.6,73%,device_7919_normal,0
+ORD-10418,CUST-1418,Mai Duy Khoa,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,294000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,5.4,0.6,7.0,72%,device_2646_normal,0
+ORD-10231,CUST-1231,Hoàng Thị Mai,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.0,0.7,1.0,94%,device_8612_normal,0
+ORD-10666,CUST-1116,Lâm Minh Khôi,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,17.8,0.6,18.7,77%,device_4767_normal,0
+ORD-10847,CUST-1297,Đoàn Thị Mai,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,502200,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,3.5,0.88,45.7,79%,device_1510_normal,0
+ORD-10667,CUST-1117,Bùi Gia Huy,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Tai nghe bên trái không sạc được pin,2.0,19.9,1.25,75.9,96%,device_5314_normal,0
+ORD-10559,CUST-1009,Mai Thanh Tùng,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,765000,Đế giày sneaker bị hở keo ở mũi chân,0.0,8.9,0.6,20.0,93%,device_4669_normal,0
+ORD-10695,CUST-1145,Dương Văn Lâm,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,1122200,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,9.4,0.7,17.3,81%,device_6328_normal,0
+ORD-10113,CUST-1113,Trịnh Duy Khoa,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,14.3,0.65,2.1,84%,device_5982_normal,0
+ORD-10352,CUST-1352,Bùi Văn Hùng,Khách Hàng Mới,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,8.2,1.43,19.1,92%,device_7525_normal,0
+ORD-10714,CUST-1164,Mai Thảo Nhi,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,15.9,1.35,11.5,73%,device_4866_normal,0
+ORD-10625,CUST-1075,Lê Ngọc Ánh,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,5.0,0.83,22.4,95%,device_3717_normal,0
+ORD-10897,CUST-1347,Lê Hoài An,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1023000,Bình đun nước tự ngắt sớm trước khi sôi,4.0,19.5,1.41,11.8,80%,device_2979_normal,0
+ORD-10001,CUST-1001,Mai Minh Anh,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,5.3,0.94,6.6,91%,device_9935_normal,0
+ORD-10170,CUST-1170,Lê Hoàng Nam,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,19.9,1.12,2.4,89%,device_9692_normal,0
+ORD-10344,CUST-1344,Đoàn Thảo Nhi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,377400,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,5.4,2.39,9.1,75%,device_2753_normal,0
+ORD-10140,CUST-1140,Trịnh Mỹ Duyên,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Pin sạc không nhận dòng điện qua cổng Type-C,2.0,6.1,2.17,2.4,78%,device_8529_normal,0
+ORD-10069,CUST-1069,Dương Hoàng Nam,Khách Hàng Bạc,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Loa rè âm bass và sập nguồn liên tục,1.0,3.1,0.6,4.7,89%,device_6198_normal,0
+ORD-10785,CUST-1235,Đoàn Ngọc Ánh,Khách Hàng Mới,Giày Thể Thao Nam Sneaker Runner,680000,Tai nghe bên trái không sạc được pin,1.0,4.0,1.84,96.0,94%,device_1807_normal,0
+ORD-10070,CUST-1070,Dương Cẩm Ly,Khách Hàng Bạc,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Loa rè âm bass và sập nguồn liên tục,1.0,7.5,1.83,14.1,87%,device_8305_normal,0
+ORD-10586,CUST-1036,Mai Quỳnh Chi,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,9.1,0.6,18.2,92%,device_5712_normal,0
+ORD-10831,CUST-1281,Trịnh Hải Đăng,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Bàn phím bị kẹt liệt hàng phím số,0.0,15.1,1.83,49.6,91%,device_9740_normal,0
+ORD-10873,CUST-1323,Lâm Hữu Thắng,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,2062500,Lòng nồi bị trầy xước lớp chống dính,0.0,6.5,2.3,96.0,70%,device_1138_normal,0
+ORD-10011,CUST-1011,Trần Cẩm Tú,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,10.2,0.6,21.0,72%,device_4456_normal,0
+ORD-10058,CUST-1058,Võ Thị Mai,Khách Hàng Bạc,Áo Thun Nam Cotton Shopee Choice,149000,Loa rè âm bass và sập nguồn liên tục,1.0,8.7,0.7,40.2,87%,device_4228_normal,0
+ORD-10442,CUST-1442,Trịnh Cẩm Tú,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,11.0,1.96,9.5,94%,device_4201_normal,0
+ORD-10273,CUST-1273,Phạm Ngọc Ánh,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Tai nghe bên trái không sạc được pin,0.0,4.5,1.48,8.8,94%,device_3363_normal,0
+ORD-10594,CUST-1044,Lê Hoài An,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,4.9,1.66,12.4,86%,device_2117_normal,0
+ORD-10455,CUST-1455,Phạm Văn Hùng,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,619400,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,4.5,1.52,26.8,82%,device_7098_normal,0
+ORD-10145,CUST-1145,Võ Văn Hùng,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Đế giày sneaker bị hở keo ở mũi chân,1.0,17.1,1.55,27.5,71%,device_9138_normal,0
+ORD-10219,CUST-1219,Vũ Phương Thảo,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,19.6,0.6,9.1,82%,device_9224_normal,0
+ORD-10878,CUST-1328,Bùi Tuấn Kiệt,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Giao nhầm kích cỡ (đặt size L giao size M),2.0,4.8,1.98,3.4,80%,device_1984_normal,0
+ORD-10336,CUST-1336,Nguyễn Tuấn Kiệt,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,4.8,2.06,24.0,79%,device_3497_normal,0
+ORD-10013,CUST-1013,Hoàng Tuấn Kiệt,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,750000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,12.1,1.15,3.3,83%,device_7543_normal,0
+ORD-10592,CUST-1042,Nguyễn Thanh Tùng,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,21.0,1.27,20.7,80%,device_1833_normal,0
+ORD-10473,CUST-1473,Đỗ Quốc Bảo,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,24.0,0.6,28.4,80%,device_5944_normal,0
+ORD-10569,CUST-1019,Dương Minh Anh,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,4.6,1.63,28.9,90%,device_5783_normal,0
+ORD-10596,CUST-1046,Bùi Thanh Tùng,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Đế giày sneaker bị hở keo ở mũi chân,1.0,5.6,1.67,33.6,85%,device_1144_normal,0
+ORD-10363,CUST-1363,Huỳnh Hoàng Nam,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,9.5,1.26,49.5,78%,device_7899_normal,0
+ORD-10406,CUST-1406,Lâm Văn Hùng,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,9.8,2.03,16.6,84%,device_6869_normal,0
+ORD-10138,CUST-1138,Trần Thanh Tùng,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,6.7,1.08,31.4,74%,device_5000_normal,0
+ORD-10239,CUST-1239,Lê Thanh Tùng,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,3.8,1.67,23.2,83%,device_3730_normal,0
+ORD-10004,CUST-1004,Nguyễn Hữu Thắng,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,7.5,0.64,5.0,74%,device_4527_normal,0
+ORD-10281,CUST-1281,Trần Nhật Nam,Khách Hàng Mới,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Bàn phím bị kẹt liệt hàng phím số,0.0,24.0,1.28,1.0,80%,device_7861_normal,0
+ORD-10679,CUST-1129,Đỗ Minh Khôi,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Lòng nồi bị trầy xước lớp chống dính,1.0,5.0,1.19,8.0,88%,device_4744_normal,0
+ORD-10835,CUST-1285,Bùi Hoài An,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,9.1,1.45,14.0,72%,device_8787_normal,0
+ORD-10718,CUST-1168,Trần Hải Đăng,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Tai nghe bên trái không sạc được pin,0.0,34.6,1.06,23.0,74%,device_8992_normal,0
+ORD-10420,CUST-1420,Võ Văn Lâm,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,697500,Bình đun nước tự ngắt sớm trước khi sôi,2.0,4.9,1.21,45.5,94%,device_1439_normal,0
+ORD-10041,CUST-1041,Lê Quỳnh Chi,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,12.5,1.84,5.2,98%,device_5002_normal,0
+ORD-10008,CUST-1008,Vũ Minh Khôi,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,24.7,1.02,3.2,81%,device_4432_normal,0
+ORD-10854,CUST-1304,Vũ Thu Hà,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,11.7,0.6,79.4,93%,device_4878_normal,0
+ORD-10535,CUST-1535,Hồ Gia Huy,Khách Hàng Mới,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,16.3,2.44,2.7,76%,device_7112_normal,0
+ORD-10425,CUST-1425,Nguyễn Nhật Nam,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,13.6,2.2,15.6,82%,device_9300_normal,0
+ORD-10746,CUST-1196,Bùi Hải Đăng,Khách Hàng Bạc,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,11.1,0.6,21.1,73%,device_4714_normal,0
+ORD-10637,CUST-1087,Huỳnh Kim Oanh,Khách Hàng Mới,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,19.2,1.75,18.7,98%,device_5644_normal,0
+ORD-10374,CUST-1374,Đoàn Thị Mai,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Gối có mùi cao su nồng gắt gây khó chịu,3.0,12.2,0.97,2.2,87%,device_2392_normal,0
+ORD-10710,CUST-1160,Đoàn Đình Trọng,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,1638000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,6.7,1.47,1.4,73%,device_5078_normal,0
+ORD-10282,CUST-1282,Hoàng Gia Huy,Khách Hàng Bạc,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Loa rè âm bass và sập nguồn liên tục,1.0,8.6,1.49,2.7,85%,device_2020_normal,0
+ORD-10542,CUST-1542,Hồ Hồng Nhung,Khách Hàng Vàng,Balo Laptop Chống Nước Đa Năng,380000,Tai nghe bên trái không sạc được pin,2.0,10.1,1.15,21.1,89%,device_1785_normal,0
+ORD-10804,CUST-1254,Phan Cẩm Ly,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,361400,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,5.6,0.79,18.9,72%,device_8924_normal,0
+ORD-10686,CUST-1136,Huỳnh Hữu Thắng,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1320000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,8.9,0.85,6.4,84%,device_2284_normal,0
+ORD-10254,CUST-1254,Hoàng Hồng Nhung,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Robot báo lỗi cảm biến laser Lidar liên tục,2.0,7.9,0.7,24.4,94%,device_3114_normal,0
+ORD-10319,CUST-1319,Trịnh Hữu Thắng,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,12.2,0.76,41.2,72%,device_2653_normal,0
+ORD-10392,CUST-1392,Lý Hoàng Nam,Kim Cương VIP,Áo Khoác Gió Nam 2 Lớp Chống Nước,375200,Loa rè âm bass và sập nguồn liên tục,1.0,29.0,1.26,1.0,83%,device_9056_normal,0
+ORD-10560,CUST-1010,Bùi Kim Oanh,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Cối xay rò rỉ nước ở chân đế trục dao,2.0,9.2,0.83,16.5,91%,device_5072_normal,0
+ORD-10351,CUST-1351,Trần Quang Vinh,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Tai nghe bên trái không sạc được pin,0.0,21.4,1.74,28.1,71%,device_3938_normal,0
+ORD-10390,CUST-1390,Ngô Thu Hà,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,11.9,2.27,7.0,75%,device_3733_normal,0
+ORD-10735,CUST-1185,Phạm Thu Hà,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,8.8,0.92,8.8,91%,device_3591_normal,0
+ORD-10228,CUST-1228,Đinh Hoài An,Khách Hàng Mới,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,5.3,1.46,22.8,85%,device_1713_normal,0
+ORD-10077,CUST-1077,Đoàn Duy Khoa,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Cối xay rò rỉ nước ở chân đế trục dao,2.0,8.9,1.62,54.8,85%,device_4595_normal,0
+ORD-10864,CUST-1314,Dương Hải Đăng,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,2.0,8.5,1.61,39.8,85%,device_3962_normal,0
+ORD-10863,CUST-1313,Võ Minh Khôi,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,750000,Lòng nồi bị trầy xước lớp chống dính,0.0,4.2,1.35,21.0,93%,device_3476_normal,0
+ORD-10365,CUST-1365,Trịnh Cẩm Ly,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,4.8,1.78,31.4,80%,device_7224_normal,0
+ORD-10743,CUST-1193,Lê Nhật Nam,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bàn phím bị kẹt liệt hàng phím số,0.0,10.1,1.61,10.9,93%,device_6319_normal,0
+ORD-10478,CUST-1478,Lý Hoàng Nam,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,21.2,0.6,24.6,80%,device_3750_normal,0
+ORD-10527,CUST-1527,Đoàn Thu Hà,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,7.3,1.86,15.1,87%,device_3999_normal,0
+ORD-10655,CUST-1105,Trịnh Gia Huy,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,1.9,1.88,5.1,93%,device_7296_normal,0
+ORD-10501,CUST-1501,Nguyễn Hoài An,Khách Hàng Bạc,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Loa rè âm bass và sập nguồn liên tục,3.0,3.1,0.8,29.0,73%,device_7790_normal,0
+ORD-10312,CUST-1312,Ngô Hải Đăng,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,12.7,1.32,19.5,72%,device_8734_normal,0
+ORD-10744,CUST-1194,Lý Thu Hà,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,2.3,1.74,10.7,96%,device_2562_normal,0
+ORD-10814,CUST-1264,Dương Hoài An,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,14.1,1.16,58.2,86%,device_5904_normal,0
+ORD-10355,CUST-1355,Trần Minh Anh,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,12.2,2.0,1.0,94%,device_7499_normal,0
+ORD-10199,CUST-1199,Mai Minh Khôi,Khách Hàng Mới,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Cối xay rò rỉ nước ở chân đế trục dao,3.0,7.1,2.84,9.1,82%,device_8581_normal,0
+ORD-10026,CUST-1026,Lê Bích Ngọc,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,4.2,0.79,1.4,97%,device_6413_normal,0
+ORD-10454,CUST-1454,Đoàn Duy Khoa,Khách Hàng Vàng,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,6.3,0.6,34.9,95%,device_3290_normal,0
+ORD-10024,CUST-1024,Đặng Ngọc Ánh,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,10.0,1.5,29.1,86%,device_8397_normal,0
+ORD-10354,CUST-1354,Hồ Hữu Thắng,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,2.4,1.77,9.7,86%,device_6666_normal,0
+ORD-10098,CUST-1098,Đoàn Kim Oanh,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Tai nghe bên trái không sạc được pin,0.0,19.8,1.15,27.0,92%,device_8434_normal,0
+ORD-10607,CUST-1057,Đặng Cẩm Ly,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,228000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,9.9,2.24,12.1,91%,device_1504_normal,0
+ORD-10315,CUST-1315,Hoàng Văn Lâm,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Lòng nồi bị trầy xước lớp chống dính,1.0,10.7,0.6,33.9,82%,device_9664_normal,0
+ORD-10250,CUST-1250,Vũ Minh Anh,Khách Hàng Mới,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,12.2,1.75,14.5,85%,device_1430_normal,0
+ORD-10543,CUST-1543,Phạm Văn Lâm,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,18.6,0.91,12.8,84%,device_7230_normal,0
+ORD-10112,CUST-1112,Mai Hoàng Nam,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,8.9,2.42,65.5,75%,device_6039_normal,0
+ORD-10509,CUST-1509,Trịnh Văn Lâm,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,2.0,12.7,2.6,6.9,94%,device_9462_normal,0
+ORD-10719,CUST-1169,Vũ Thanh Tùng,Khách Hàng Mới,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,4.3,0.8,3.1,95%,device_8187_normal,0
+ORD-10551,CUST-1001,Mai Cẩm Tú,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,24.1,0.94,21.1,73%,device_3862_normal,0
+ORD-10463,CUST-1463,Đoàn Hoài An,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,8.5,1.86,83.6,82%,device_5430_normal,0
+ORD-10496,CUST-1496,Đặng Quốc Bảo,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Gối có mùi cao su nồng gắt gây khó chịu,4.0,4.3,1.05,11.4,88%,device_9467_normal,0
+ORD-10103,CUST-1103,Hoàng Văn Lâm,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Sản phẩm cắm nguồn không nhận điện,0.0,5.3,1.27,1.5,88%,device_5658_normal,0
+ORD-10083,CUST-1083,Mai Quốc Bảo,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,1.0,1.32,9.9,77%,device_4266_normal,0
+ORD-10408,CUST-1408,Bùi Phương Thảo,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,5.3,0.6,16.9,95%,device_6631_normal,0
+ORD-10643,CUST-1093,Phạm Quốc Bảo,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,0.4,1.29,4.2,70%,device_8069_normal,0
+ORD-10221,CUST-1221,Mai Thanh Tùng,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,13.3,0.85,25.8,96%,device_8740_normal,0
+ORD-10286,CUST-1286,Phan Bích Ngọc,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,10.5,0.98,96.0,95%,device_5480_normal,0
+ORD-10181,CUST-1181,Lê Duy Khoa,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,3.2,2.24,14.4,75%,device_7062_normal,0
+ORD-10264,CUST-1264,Hồ Hoàng Nam,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Tai nghe bên trái không sạc được pin,1.0,7.4,0.6,10.5,77%,device_8642_normal,0
+ORD-10636,CUST-1086,Hoàng Văn Lâm,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,7.6,1.83,12.3,75%,device_5231_normal,0
+ORD-10491,CUST-1491,Lý Hồng Nhung,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,2.6,1.12,2.9,75%,device_7078_normal,0
+ORD-10293,CUST-1293,Lý Văn Lâm,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Robot báo lỗi cảm biến laser Lidar liên tục,2.0,6.4,1.12,51.6,94%,device_2465_normal,0
+ORD-10715,CUST-1165,Mai Gia Huy,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,7.8,1.81,12.9,73%,device_7484_normal,0
+ORD-10866,CUST-1316,Ngô Hữu Thắng,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,6.3,1.52,11.8,75%,device_4454_normal,0
+ORD-10376,CUST-1376,Bùi Hoài An,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Sản phẩm cắm nguồn không nhận điện,0.0,4.3,1.67,25.9,86%,device_9499_normal,0
+ORD-10734,CUST-1184,Phạm Hữu Thắng,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,3.1,1.93,14.0,91%,device_7997_normal,0
+ORD-10673,CUST-1123,Lý Hồng Nhung,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,6.1,1.08,25.1,85%,device_3996_normal,0
+ORD-10879,CUST-1329,Võ Phương Thảo,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Bàn phím bị kẹt liệt hàng phím số,0.0,4.8,0.9,1.5,75%,device_9061_normal,0
+ORD-10134,CUST-1134,Trịnh Bích Ngọc,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,11.6,0.6,40.3,97%,device_9742_normal,0
+ORD-10269,CUST-1269,Lý Cẩm Ly,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,19.3,0.76,67.7,87%,device_1133_normal,0
+ORD-10689,CUST-1139,Bùi Thanh Tùng,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,14.6,3.22,25.1,82%,device_5444_normal,0
+ORD-10347,CUST-1347,Đặng Mỹ Duyên,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,8.0,2.11,74.2,90%,device_1519_normal,0
+ORD-10148,CUST-1148,Mai Minh Anh,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,4.4,0.6,3.9,84%,device_1546_normal,0
+ORD-10224,CUST-1224,Đặng Cẩm Tú,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,14.3,0.6,15.6,95%,device_8489_normal,0
+ORD-10258,CUST-1258,Đinh Văn Lâm,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,12.1,1.61,22.1,98%,device_6531_normal,0
+ORD-10836,CUST-1286,Phạm Hải Đăng,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Lòng nồi bị trầy xước lớp chống dính,0.0,18.5,1.66,20.9,81%,device_3087_normal,0
+ORD-10601,CUST-1051,Đoàn Quỳnh Chi,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,8.9,1.66,12.3,97%,device_7950_normal,0
+ORD-10435,CUST-1435,Trần Đình Trọng,Khách Hàng Bạc,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,23.3,1.13,9.9,94%,device_2685_normal,0
+ORD-10165,CUST-1165,Nguyễn Hoàng Nam,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1899500,Áp lực tăm nước yếu không đẩy được cặn bẩn,3.0,8.9,1.22,3.3,75%,device_5347_normal,0
+ORD-10789,CUST-1239,Hoàng Ngọc Ánh,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,2.0,4.4,1.51,11.9,88%,device_4308_normal,0
+ORD-10328,CUST-1328,Ngô Quỳnh Chi,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,5.1,1.36,4.3,80%,device_2295_normal,0
+ORD-10080,CUST-1080,Lê Văn Lâm,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,11.2,0.6,31.8,78%,device_7211_normal,0
+ORD-10446,CUST-1446,Lê Thị Mai,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Loa rè âm bass và sập nguồn liên tục,2.0,4.7,1.15,5.6,98%,device_7102_normal,0
+ORD-10198,CUST-1198,Đỗ Kim Oanh,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,23.2,0.75,1.4,79%,device_2257_normal,0
+ORD-10204,CUST-1204,Mai Văn Lâm,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Sản phẩm cắm nguồn không nhận điện,0.0,10.6,1.41,19.3,82%,device_5655_normal,0
+ORD-10467,CUST-1467,Vũ Nhật Nam,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,7.9,3.24,21.7,96%,device_3846_normal,0
+ORD-10792,CUST-1242,Đinh Cẩm Ly,Khách Hàng Mới,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Tai nghe bên trái không sạc được pin,0.0,8.4,1.54,49.3,94%,device_3799_normal,0
+ORD-10515,CUST-1515,Huỳnh Phương Thảo,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,6.2,1.1,20.6,70%,device_7333_normal,0
+ORD-10745,CUST-1195,Trịnh Văn Lâm,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,2.0,1.4,1.9,10.2,72%,device_1916_normal,0
+ORD-10297,CUST-1297,Đinh Đình Trọng,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Loa rè âm bass và sập nguồn liên tục,1.0,5.1,1.61,39.0,76%,device_2845_normal,0
+ORD-10729,CUST-1179,Trần Hải Đăng,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Bàn phím bị kẹt liệt hàng phím số,0.0,21.3,1.57,18.7,98%,device_2310_normal,0
+ORD-10557,CUST-1007,Lâm Mỹ Duyên,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,9.1,1.69,2.0,89%,device_1472_normal,0
+ORD-10189,CUST-1189,Ngô Văn Hùng,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,15.7,2.64,20.0,88%,device_7626_normal,0
+ORD-10885,CUST-1335,Vũ Văn Hùng,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Đế giày sneaker bị hở keo ở mũi chân,2.0,16.0,0.6,57.3,88%,device_9770_normal,0
+ORD-10597,CUST-1047,Phạm Mỹ Duyên,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Robot báo lỗi cảm biến laser Lidar liên tục,2.0,7.4,1.61,12.1,89%,device_4994_normal,0
+ORD-10825,CUST-1275,Nguyễn Nhật Nam,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Bàn phím bị kẹt liệt hàng phím số,1.0,12.2,0.7,8.4,76%,device_5695_normal,0
+ORD-10708,CUST-1158,Lý Đức Trí,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,1.6,1.66,3.7,81%,device_8597_normal,0
+ORD-10087,CUST-1087,Phan Quốc Bảo,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,20.2,0.7,3.9,92%,device_5941_normal,0
+ORD-10412,CUST-1412,Đỗ Mỹ Duyên,Khách Hàng Mới,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,19.1,1.03,13.6,79%,device_4836_normal,0
+ORD-10060,CUST-1060,Đặng Kim Oanh,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,11.0,1.11,21.7,79%,device_3085_normal,0
+ORD-10100,CUST-1100,Phan Đức Trí,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,9.3,1.93,2.0,94%,device_9595_normal,0
+ORD-10537,CUST-1537,Mai Duy Khoa,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,186000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,7.5,1.9,67.3,82%,device_9246_normal,0
+ORD-10257,CUST-1257,Lê Tuấn Kiệt,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,17.0,0.6,33.8,87%,device_2530_normal,0
+ORD-10240,CUST-1240,Dương Hải Đăng,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,13.2,1.34,21.2,83%,device_5498_normal,0
+ORD-10394,CUST-1394,Đặng Thị Mai,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Đế giày sneaker bị hở keo ở mũi chân,0.0,5.7,0.84,42.3,93%,device_9115_normal,0
+ORD-10576,CUST-1026,Đinh Hồng Nhung,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,2.8,0.6,2.0,78%,device_7518_normal,0
+ORD-10726,CUST-1176,Đoàn Hoàng Nam,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,2.3,1.16,15.5,73%,device_2577_normal,0
+ORD-10747,CUST-1197,Mai Minh Khôi,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,16.8,1.1,23.9,82%,device_1886_normal,0
+ORD-10717,CUST-1167,Đỗ Hữu Thắng,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,7.4,2.88,42.3,94%,device_1983_normal,0
+ORD-10222,CUST-1222,Hoàng Hữu Thắng,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,10.9,1.58,36.7,72%,device_1311_normal,0
+ORD-10039,CUST-1039,Phan Mỹ Duyên,Khách Hàng Bạc,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,8.1,0.6,7.8,91%,device_5915_normal,0
+ORD-10669,CUST-1119,Bùi Hải Đăng,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,2.3,0.93,67.9,76%,device_9175_normal,0
+ORD-10649,CUST-1099,Hoàng Gia Huy,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,1.6,1.96,3.2,83%,device_6990_normal,0
+ORD-10195,CUST-1195,Phan Thu Hà,Khách Hàng Vàng,Balo Laptop Chống Nước Đa Năng,380000,Đế giày sneaker bị hở keo ở mũi chân,1.0,5.4,2.66,49.9,75%,device_9095_normal,0
+ORD-10118,CUST-1118,Bùi Mỹ Duyên,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,5.8,0.6,84.9,91%,device_7561_normal,0
+ORD-10562,CUST-1012,Nguyễn Văn Lâm,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Chất kem mỹ phẩm tách nước đổi màu bất thường,2.0,5.8,0.6,4.7,97%,device_3709_normal,0
+ORD-10130,CUST-1130,Ngô Thị Mai,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,5.9,2.52,30.7,82%,device_7325_normal,0
+ORD-10470,CUST-1470,Đoàn Thảo Nhi,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,680000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,27.8,1.55,1.0,70%,device_9625_normal,0
+ORD-10658,CUST-1108,Phan Thị Mai,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Loa rè âm bass và sập nguồn liên tục,0.0,15.6,0.74,12.5,89%,device_3776_normal,0
+ORD-10034,CUST-1034,Nguyễn Ngọc Ánh,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,870000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,9.2,1.65,17.4,93%,device_8973_normal,0
+ORD-10278,CUST-1278,Phạm Gia Huy,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,7.2,0.6,20.9,90%,device_1436_normal,0
+ORD-10514,CUST-1514,Lý Cẩm Ly,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,7.4,1.3,65.9,81%,device_6640_normal,0
+ORD-10439,CUST-1439,Ngô Quang Vinh,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,12.9,1.51,26.8,73%,device_9225_normal,0
+ORD-10122,CUST-1122,Võ Quỳnh Chi,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,7.2,1.9,15.8,70%,device_4920_normal,0
+ORD-10732,CUST-1182,Đặng Quốc Bảo,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Sản phẩm cắm nguồn không nhận điện,2.0,14.5,0.64,39.8,77%,device_9710_normal,0
+ORD-10201,CUST-1201,Bùi Cẩm Ly,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,9.9,1.36,72.2,95%,device_6626_normal,0
+ORD-10896,CUST-1346,Trịnh Thu Hà,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Sản phẩm cắm nguồn không nhận điện,1.0,28.0,0.7,1.0,89%,device_4613_normal,0
+ORD-10232,CUST-1232,Lý Văn Lâm,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Đế giày sneaker bị hở keo ở mũi chân,0.0,6.9,1.47,96.0,71%,device_5807_normal,0
+ORD-10763,CUST-1213,Trịnh Tuấn Kiệt,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,669900,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,16.3,0.72,2.2,78%,device_6901_normal,0
+ORD-10247,CUST-1247,Phạm Hoàng Nam,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Lòng nồi bị trầy xước lớp chống dính,0.0,3.0,1.03,40.4,84%,device_2438_normal,0
+ORD-10656,CUST-1106,Hồ Cẩm Ly,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,4.5,0.65,7.9,71%,device_3871_normal,0
+ORD-10651,CUST-1101,Huỳnh Hải Đăng,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,25.6,1.72,3.4,88%,device_6641_normal,0
+ORD-10035,CUST-1035,Hoàng Đức Trí,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,680000,Tai nghe bên trái không sạc được pin,0.0,14.1,1.86,13.9,80%,device_1936_normal,0
+ORD-10827,CUST-1277,Võ Minh Anh,Kim Cương VIP,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Sản phẩm cắm nguồn không nhận điện,0.0,11.0,1.15,24.8,81%,device_6218_normal,0
+ORD-10795,CUST-1245,Phạm Hồng Nhung,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Đế giày sneaker bị hở keo ở mũi chân,1.0,32.6,1.32,11.5,84%,device_9153_normal,0
+ORD-10002,CUST-1002,Lê Nhật Nam,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,7.3,0.6,1.3,86%,device_1434_normal,0
+ORD-10675,CUST-1125,Lý Quỳnh Chi,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,16.3,1.11,22.0,84%,device_2972_normal,0
+ORD-10094,CUST-1094,Huỳnh Đình Trọng,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Màn hình bị sọc ngang khi vừa bật nguồn,3.0,17.1,1.27,55.8,92%,device_5526_normal,0
+ORD-10736,CUST-1186,Đoàn Cẩm Ly,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,22.0,3.0,11.6,80%,device_7090_normal,0
+ORD-10590,CUST-1040,Dương Thu Hà,Khách Hàng Mới,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Lòng nồi bị trầy xước lớp chống dính,0.0,2.7,0.6,5.9,93%,device_9418_normal,0
+ORD-10892,CUST-1342,Bùi Thị Mai,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,7.3,2.25,14.0,76%,device_9570_normal,0
+ORD-10733,CUST-1183,Hồ Đức Trí,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Robot báo lỗi cảm biến laser Lidar liên tục,3.0,9.8,1.95,1.2,87%,device_7802_normal,0
+ORD-10494,CUST-1494,Ngô Hữu Thắng,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,21.8,1.48,41.2,96%,device_9561_normal,0
+ORD-10828,CUST-1278,Võ Hoàng Nam,Khách Hàng Mới,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Vải áo mỏng và có vệt ố màu ở cổ,3.0,10.7,2.44,42.0,75%,device_2167_normal,0
+ORD-10307,CUST-1307,Đinh Bảo Vy,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,17.1,1.54,21.3,73%,device_2011_normal,0
+ORD-10574,CUST-1024,Trần Quỳnh Chi,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Áp lực tăm nước yếu không đẩy được cặn bẩn,2.0,2.4,1.55,10.5,86%,device_3903_normal,0
+ORD-10385,CUST-1385,Lâm Minh Anh,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Lòng nồi bị trầy xước lớp chống dính,0.0,6.0,1.27,38.6,76%,device_8496_normal,0
+ORD-10151,CUST-1151,Võ Quang Vinh,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,19.1,2.1,19.4,97%,device_6549_normal,0
+ORD-10382,CUST-1382,Đinh Thu Hà,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Tai nghe bên trái không sạc được pin,2.0,6.7,2.01,42.0,84%,device_4798_normal,0
+ORD-10765,CUST-1215,Bùi Đình Trọng,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,7.8,0.89,24.0,86%,device_8503_normal,0
+ORD-10648,CUST-1098,Nguyễn Ngọc Ánh,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,21.6,0.6,36.8,81%,device_2746_normal,0
+ORD-10793,CUST-1243,Bùi Nhật Nam,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,3.7,1.17,21.9,74%,device_3930_normal,0
+ORD-10739,CUST-1189,Hồ Văn Hùng,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Cối xay rò rỉ nước ở chân đế trục dao,3.0,4.5,0.78,12.8,74%,device_5945_normal,0
+ORD-10564,CUST-1014,Vũ Quỳnh Chi,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,2.2,1.26,76.1,84%,device_8341_normal,0
+ORD-10853,CUST-1303,Trịnh Thu Hà,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Tai nghe bên trái không sạc được pin,1.0,22.1,2.1,18.7,82%,device_6821_normal,0
+ORD-10759,CUST-1209,Nguyễn Thanh Tùng,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,15.4,1.0,22.3,70%,device_6437_normal,0
+ORD-10810,CUST-1260,Nguyễn Văn Lâm,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,15.1,1.27,6.0,86%,device_6307_normal,0
+ORD-10062,CUST-1062,Hồ Quỳnh Chi,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Vải áo mỏng và có vệt ố màu ở cổ,4.0,5.9,1.34,23.6,95%,device_6279_normal,0
+ORD-10779,CUST-1229,Huỳnh Minh Khôi,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,2.0,1.85,20.3,77%,device_1528_normal,0
+ORD-10513,CUST-1513,Dương Kim Oanh,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Sản phẩm cắm nguồn không nhận điện,0.0,1.5,0.6,4.9,77%,device_7102_normal,0
+ORD-10357,CUST-1357,Ngô Thu Hà,Khách Hàng Bạc,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Trục ép kẹt cứng không quay được khi cho hoa quả,2.0,19.2,0.91,1.5,89%,device_5839_normal,0
+ORD-10800,CUST-1250,Lê Thị Mai,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,11.5,1.44,22.3,92%,device_3906_normal,0
+ORD-10700,CUST-1150,Hoàng Hải Đăng,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,13.1,2.08,34.6,85%,device_5908_normal,0
+ORD-10668,CUST-1118,Vũ Thảo Nhi,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,2030600,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,9.5,0.98,17.8,75%,device_8807_normal,0
+ORD-10243,CUST-1243,Mai Hải Đăng,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,4.0,0.6,6.2,91%,device_8371_normal,0
+ORD-10234,CUST-1234,Hồ Phương Thảo,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,6.1,1.7,26.4,76%,device_5687_normal,0
+ORD-10758,CUST-1208,Trần Cẩm Tú,Khách Hàng Mới,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,3.2,0.89,2.0,96%,device_5713_normal,0
+ORD-10061,CUST-1061,Phan Gia Huy,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Gãy đót ngọn cần câu khi mở ống nhựa,2.0,2.8,0.6,14.0,75%,device_5930_normal,0
+ORD-10614,CUST-1064,Dương Văn Lâm,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gãy đót ngọn cần câu khi mở ống nhựa,2.0,14.5,0.89,4.3,73%,device_4234_normal,0
+ORD-10263,CUST-1263,Trịnh Hoàng Nam,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,1.6,1.18,4.9,97%,device_6658_normal,0
+ORD-10327,CUST-1327,Đặng Minh Khôi,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,3.2,0.91,5.4,87%,device_7761_normal,0
+ORD-10845,CUST-1295,Bùi Thảo Nhi,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,6.4,0.6,11.7,83%,device_6640_normal,0
+ORD-10641,CUST-1091,Hồ Ngọc Ánh,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,149000,Loa rè âm bass và sập nguồn liên tục,1.0,8.3,1.88,1.3,96%,device_3450_normal,0
+ORD-10558,CUST-1008,Hoàng Đình Trọng,Khách Hàng Mới,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,2.2,2.13,12.2,72%,device_5286_normal,0
+ORD-10716,CUST-1166,Vũ Văn Hùng,Khách Hàng Mới,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,10.6,1.72,17.2,92%,device_3539_normal,0
+ORD-10074,CUST-1074,Hoàng Bích Ngọc,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Tai nghe bên trái không sạc được pin,1.0,9.1,0.6,15.8,71%,device_4388_normal,0
+ORD-10724,CUST-1174,Hồ Duy Khoa,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,324820,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,2.0,19.0,1.17,11.6,77%,device_6254_normal,0
+ORD-10815,CUST-1265,Lâm Duy Khoa,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Tai nghe bên trái không sạc được pin,0.0,8.4,1.3,43.9,88%,device_6434_normal,0
+ORD-10251,CUST-1251,Đỗ Quỳnh Chi,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,11.4,1.69,3.8,74%,device_2412_normal,0
+ORD-10226,CUST-1226,Lâm Cẩm Tú,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,4.2,1.73,16.9,81%,device_4941_normal,0
+ORD-10256,CUST-1256,Huỳnh Thanh Tùng,Khách Hàng Mới,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,4.4,0.82,1.5,86%,device_5653_normal,0
+ORD-10203,CUST-1203,Đinh Cẩm Ly,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,2419200,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,2.4,1.35,1.8,80%,device_1857_normal,0
+ORD-10871,CUST-1321,Phạm Quang Vinh,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,4.2,1.6,20.5,90%,device_5466_normal,0
+ORD-10287,CUST-1287,Đặng Minh Anh,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,6.0,2.25,20.0,82%,device_6654_normal,0
+ORD-10706,CUST-1156,Phan Thanh Tùng,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,571200,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,17.7,1.76,50.5,73%,device_5622_normal,0
+ORD-10429,CUST-1429,Đặng Bích Ngọc,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,3.7,1.81,19.6,72%,device_8118_normal,0
+ORD-10748,CUST-1198,Đặng Kim Oanh,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,28.8,1.35,77.1,77%,device_3509_normal,0
+ORD-10040,CUST-1040,Dương Thanh Tùng,Khách Hàng Mới,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,12.1,2.22,1.2,89%,device_2638_normal,0
+ORD-10608,CUST-1058,Lý Thu Hà,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Bình đun nước tự ngắt sớm trước khi sôi,2.0,10.4,1.57,2.5,95%,device_9941_normal,0
+ORD-10685,CUST-1135,Đỗ Minh Khôi,Khách Hàng Bạc,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Bàn phím bị kẹt liệt hàng phím số,0.0,7.9,0.74,1.1,90%,device_9821_normal,0
+ORD-10244,CUST-1244,Đỗ Hải Đăng,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,6.8,2.21,4.9,81%,device_7521_normal,0
+ORD-10067,CUST-1067,Hồ Cẩm Tú,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Đế giày sneaker bị hở keo ở mũi chân,0.0,4.8,1.75,18.7,98%,device_2746_normal,0
+ORD-10684,CUST-1134,Đỗ Quỳnh Chi,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,2.1,1.01,24.9,83%,device_2986_normal,0
+ORD-10462,CUST-1462,Mai Hoài An,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,3.8,0.99,1.1,81%,device_8859_normal,0
+ORD-10397,CUST-1397,Đặng Minh Khôi,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,22.1,1.49,70.0,96%,device_2425_normal,0
+ORD-10772,CUST-1222,Lâm Quỳnh Chi,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,11.6,1.6,44.3,92%,device_9582_normal,0
+ORD-10531,CUST-1531,Hoàng Hoàng Nam,Khách Hàng Mới,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,22.0,1.43,8.4,98%,device_8496_normal,0
+ORD-10431,CUST-1431,Phạm Văn Hùng,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,4.7,1.5,1.9,81%,device_9568_normal,0
+ORD-10051,CUST-1051,Vũ Minh Khôi,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,2798500,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,3.1,2.4,4.5,93%,device_6442_normal,0
+ORD-10362,CUST-1362,Lê Duy Khoa,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,7.9,2.0,3.3,75%,device_7237_normal,0
+ORD-10819,CUST-1269,Phan Kim Oanh,Khách Hàng Vàng,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,3.9,1.42,3.2,94%,device_4311_normal,0
+ORD-10794,CUST-1244,Trần Gia Huy,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,3.0,9.1,1.91,17.5,79%,device_3960_normal,0
+ORD-10299,CUST-1299,Đặng Nhật Nam,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Lòng nồi bị trầy xước lớp chống dính,0.0,1.6,0.63,6.8,90%,device_7643_normal,0
+ORD-10487,CUST-1487,Đoàn Duy Khoa,Khách Hàng Mới,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,0.9,1.56,10.6,79%,device_4891_normal,0
+ORD-10054,CUST-1054,Vũ Văn Hùng,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,10.1,2.48,96.0,72%,device_5573_normal,0
+ORD-10393,CUST-1393,Ngô Bích Ngọc,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Lòng nồi bị trầy xước lớp chống dính,0.0,22.5,1.16,27.7,70%,device_4613_normal,0
+ORD-10072,CUST-1072,Đinh Đình Trọng,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,10.4,0.75,71.4,79%,device_4841_normal,0
+ORD-10345,CUST-1345,Phạm Kim Oanh,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,266000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,11.5,0.88,3.7,78%,device_7502_normal,0
+ORD-10876,CUST-1326,Trịnh Văn Lâm,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,8.1,0.6,11.6,91%,device_4027_normal,0
+ORD-10399,CUST-1399,Trịnh Văn Lâm,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Bình bị rò rỉ nước ở nắp gioăng cao su,3.0,8.7,0.79,19.4,96%,device_4390_normal,0
+ORD-10154,CUST-1154,Lâm Ngọc Ánh,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Sản phẩm cắm nguồn không nhận điện,2.0,2.0,1.06,1.9,85%,device_1410_normal,0
+ORD-10180,CUST-1180,Bùi Hải Đăng,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,4.1,0.6,1.0,74%,device_1502_normal,0
+ORD-10620,CUST-1070,Lý Quỳnh Chi,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,174000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,17.6,1.31,26.6,74%,device_9824_normal,0
+ORD-10712,CUST-1162,Phạm Kim Oanh,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,5.9,1.89,24.6,79%,device_6293_normal,0
+ORD-10546,CUST-1546,Đinh Duy Khoa,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Sản phẩm cắm nguồn không nhận điện,0.0,17.4,0.71,12.7,85%,device_4254_normal,0
+ORD-10699,CUST-1149,Dương Thảo Nhi,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,8.5,2.29,16.1,70%,device_9574_normal,0
+ORD-10522,CUST-1522,Lê Thanh Tùng,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,8.9,1.63,12.9,78%,device_5895_normal,0
+ORD-10581,CUST-1031,Đoàn Đình Trọng,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,6.0,1.97,1.0,93%,device_9747_normal,0
+ORD-10626,CUST-1076,Đinh Hoàng Nam,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,12.7,0.87,9.8,91%,device_3395_normal,0
+ORD-10532,CUST-1532,Hoàng Thanh Tùng,Khách Hàng Bạc,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Đế giày sneaker bị hở keo ở mũi chân,0.0,14.9,1.86,4.7,80%,device_3897_normal,0
+ORD-10468,CUST-1468,Huỳnh Cẩm Tú,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Bình đun nước tự ngắt sớm trước khi sôi,3.0,3.9,0.6,2.5,88%,device_1462_normal,0
+ORD-10554,CUST-1004,Lê Hải Đăng,Khách Hàng Bạc,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Sản phẩm cắm nguồn không nhận điện,1.0,2.2,1.88,75.4,84%,device_5453_normal,0
+ORD-10003,CUST-1003,Đoàn Đức Trí,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Tai nghe bên trái không sạc được pin,1.0,1.1,1.41,22.0,84%,device_5557_normal,0
+ORD-10294,CUST-1294,Mai Nhật Nam,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,990000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,11.1,1.66,31.3,75%,device_7846_normal,0
+ORD-10842,CUST-1292,Dương Thu Hà,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,10.2,0.6,9.1,91%,device_7208_normal,0
+ORD-10659,CUST-1109,Trần Hải Đăng,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,132610,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,34.0,0.72,12.0,94%,device_7544_normal,0
+ORD-10440,CUST-1440,Trần Thu Hà,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,799800,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,8.2,1.69,6.5,84%,device_5625_normal,0
+ORD-10421,CUST-1421,Đặng Đức Trí,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Bàn phím bị kẹt liệt hàng phím số,1.0,7.1,0.68,2.4,79%,device_1894_normal,0
+ORD-10025,CUST-1025,Phạm Cẩm Tú,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Tai nghe bên trái không sạc được pin,0.0,9.4,1.6,4.7,77%,device_1117_normal,0
+ORD-10064,CUST-1064,Lê Thảo Nhi,Khách Hàng Vàng,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,9.7,0.6,38.3,96%,device_4848_normal,0
+ORD-10182,CUST-1182,Đặng Duy Khoa,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,6.7,1.85,27.2,71%,device_3549_normal,0
+ORD-10711,CUST-1161,Hồ Hữu Thắng,Khách Hàng Mới,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,4.0,0.6,19.0,76%,device_8550_normal,0
+ORD-10384,CUST-1384,Dương Nhật Nam,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,7.8,1.66,15.5,78%,device_2025_normal,0
+ORD-10571,CUST-1021,Ngô Minh Anh,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,7.6,1.71,61.4,96%,device_4122_normal,0
+ORD-10031,CUST-1031,Dương Hoàng Nam,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,7.5,0.85,1.8,72%,device_8260_normal,0
+ORD-10375,CUST-1375,Phạm Hữu Thắng,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,13.6,1.68,7.9,88%,device_7547_normal,0
+ORD-10830,CUST-1280,Trần Minh Anh,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,7.7,1.47,10.3,92%,device_8304_normal,0
+ORD-10510,CUST-1510,Đỗ Phương Thảo,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,2.2,0.95,36.6,82%,device_3222_normal,0
+ORD-10812,CUST-1262,Huỳnh Đức Trí,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,4.6,0.64,96.0,85%,device_1582_normal,0
+ORD-10856,CUST-1306,Đỗ Minh Anh,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,6.6,0.6,6.6,93%,device_9624_normal,0
+ORD-10556,CUST-1006,Phạm Hoàng Nam,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Lòng nồi bị trầy xước lớp chống dính,0.0,8.0,1.53,49.8,88%,device_8908_normal,0
+ORD-10553,CUST-1003,Nguyễn Minh Khôi,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,11.3,0.6,42.6,89%,device_5395_normal,0
+ORD-10578,CUST-1028,Đặng Phương Thảo,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,8.1,1.36,6.1,87%,device_4560_normal,0
+ORD-10304,CUST-1304,Phạm Văn Lâm,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,0.9,1.13,12.2,77%,device_3188_normal,0
+ORD-10587,CUST-1037,Trần Quang Vinh,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,2.5,1.74,12.6,80%,device_1881_normal,0
+ORD-10671,CUST-1121,Trịnh Hải Đăng,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,11.8,1.1,91.8,91%,device_9071_normal,0
+ORD-10012,CUST-1012,Lâm Hồng Nhung,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.5,1.09,4.8,98%,device_8517_normal,0
+ORD-10753,CUST-1203,Hồ Văn Lâm,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Cối xay rò rỉ nước ở chân đế trục dao,2.0,8.6,1.78,38.5,86%,device_5034_normal,0
+ORD-10326,CUST-1326,Ngô Gia Huy,Kim Cương VIP,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Tai nghe bên trái không sạc được pin,1.0,5.8,1.52,9.8,97%,device_4692_normal,0
+ORD-10388,CUST-1388,Đặng Quang Vinh,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,4.6,1.51,31.5,73%,device_4908_normal,0
+ORD-10175,CUST-1175,Hoàng Quỳnh Chi,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,6.0,1.61,13.1,81%,device_7929_normal,0
+ORD-10417,CUST-1417,Lê Kim Oanh,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,8.7,0.6,20.7,81%,device_4490_normal,0
+ORD-10160,CUST-1160,Dương Cẩm Tú,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,7.7,1.79,42.9,98%,device_6876_normal,0
+ORD-10283,CUST-1283,Hoàng Kim Oanh,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1880999,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,14.8,1.7,39.1,80%,device_3837_normal,0
+ORD-10822,CUST-1272,Phạm Phương Thảo,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,1.8,0.64,48.3,76%,device_1598_normal,0
+ORD-10547,CUST-1547,Trịnh Đức Trí,Khách Hàng Bạc,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Loa rè âm bass và sập nguồn liên tục,1.0,2.1,1.14,1.5,81%,device_7713_normal,0
+ORD-10110,CUST-1110,Đặng Thị Mai,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,6.4,1.27,28.3,77%,device_5334_normal,0
+ORD-10277,CUST-1277,Đoàn Đình Trọng,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,11.4,1.21,3.6,81%,device_6427_normal,0
+ORD-10801,CUST-1251,Dương Duy Khoa,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,13.1,1.52,12.9,79%,device_6289_normal,0
+ORD-10065,CUST-1065,Đặng Cẩm Tú,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,4.7,2.23,19.1,85%,device_2193_normal,0
+ORD-10379,CUST-1379,Hoàng Hải Đăng,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,3.0,0.3,2.0,12.4,85%,device_6706_normal,0
+ORD-10883,CUST-1333,Bùi Hồng Nhung,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Loa rè âm bass và sập nguồn liên tục,0.0,4.9,0.6,17.6,94%,device_9039_normal,0
+ORD-10372,CUST-1372,Hoàng Văn Lâm,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,10.2,1.7,96.0,83%,device_7176_normal,0
+ORD-10200,CUST-1200,Lâm Quỳnh Chi,Khách Hàng Mới,Đồng Hồ Nam Dây Da Chống Nước,750000,Giao nhầm kích cỡ (đặt size L giao size M),2.0,7.6,2.16,3.5,95%,device_4084_normal,0
+ORD-10533,CUST-1533,Bùi Văn Lâm,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Đế giày sneaker bị hở keo ở mũi chân,0.0,11.6,1.55,27.0,88%,device_3595_normal,0
+ORD-10852,CUST-1302,Hoàng Văn Lâm,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,17.2,2.01,12.1,92%,device_7974_normal,0
+ORD-10459,CUST-1459,Ngô Thu Hà,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Lòng nồi bị trầy xước lớp chống dính,0.0,6.8,2.61,3.4,84%,device_3435_normal,0
+ORD-10761,CUST-1211,Lý Cẩm Ly,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,5.3,1.97,4.1,70%,device_7170_normal,0
+ORD-10545,CUST-1545,Ngô Mỹ Duyên,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,620000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,3.5,1.46,71.6,83%,device_2718_normal,0
+ORD-10524,CUST-1524,Bùi Mỹ Duyên,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,89400,Vải áo mỏng và có vệt ố màu ở cổ,1.0,2.1,1.98,50.8,83%,device_7628_normal,0
+ORD-10788,CUST-1238,Lê Duy Khoa,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Đế giày sneaker bị hở keo ở mũi chân,0.0,1.5,1.39,57.0,98%,device_9952_normal,0
+ORD-10208,CUST-1208,Hoàng Mỹ Duyên,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,4.3,1.32,96.0,72%,device_7937_normal,0
+ORD-10401,CUST-1401,Đặng Nhật Nam,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Gãy đót ngọn cần câu khi mở ống nhựa,2.0,15.6,1.07,5.6,74%,device_7743_normal,0
+ORD-10416,CUST-1416,Đặng Hoàng Nam,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Đế giày sneaker bị hở keo ở mũi chân,0.0,12.4,2.32,10.5,90%,device_3340_normal,0
+ORD-10760,CUST-1210,Phan Duy Khoa,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Tai nghe bên trái không sạc được pin,2.0,5.1,0.77,26.6,78%,device_9991_normal,0
+ORD-10477,CUST-1477,Lâm Thị Mai,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,2706000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,28.9,2.3,15.9,88%,device_2705_normal,0
+ORD-10334,CUST-1334,Đặng Tuấn Kiệt,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,4.6,1.62,13.0,95%,device_8692_normal,0
+ORD-10317,CUST-1317,Đoàn Gia Huy,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,18.3,0.6,10.6,81%,device_3541_normal,0
+ORD-10320,CUST-1320,Trịnh Thị Mai,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,21.2,1.54,21.6,77%,device_1724_normal,0
+ORD-10279,CUST-1279,Trịnh Đình Trọng,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,524900,Đế giày sneaker bị hở keo ở mũi chân,2.0,10.7,0.6,20.6,77%,device_1841_normal,0
+ORD-10633,CUST-1083,Huỳnh Cẩm Tú,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,4.3,1.71,4.2,81%,device_2938_normal,0
+ORD-10330,CUST-1330,Hồ Mỹ Duyên,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,5.7,1.88,15.3,94%,device_4555_normal,0
+ORD-10229,CUST-1229,Mai Ngọc Ánh,Khách Hàng Mới,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,8.8,0.91,19.4,95%,device_2106_normal,0
+ORD-10518,CUST-1518,Lý Quang Vinh,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,1584200,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,2.1,1.38,20.3,89%,device_6004_normal,0
+ORD-10720,CUST-1170,Phan Văn Hùng,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,3.2,2.57,5.7,98%,device_1646_normal,0
+ORD-10076,CUST-1076,Lý Văn Hùng,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Đế giày sneaker bị hở keo ở mũi chân,1.0,3.0,0.97,32.5,98%,device_7865_normal,0
+ORD-10313,CUST-1313,Trần Thảo Nhi,Khách Hàng Vàng,Balo Laptop Chống Nước Đa Năng,380000,Bình bị rò rỉ nước ở nắp gioăng cao su,4.0,11.3,0.61,1.0,93%,device_7887_normal,0
+ORD-10144,CUST-1144,Lâm Thảo Nhi,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,17.1,2.26,10.5,91%,device_7484_normal,0
+ORD-10424,CUST-1424,Đỗ Quỳnh Chi,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,12.8,2.58,36.4,94%,device_2195_normal,0
+ORD-10886,CUST-1336,Đỗ Thanh Tùng,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,15.2,1.3,19.9,90%,device_2485_normal,0
+ORD-10177,CUST-1177,Lý Cẩm Tú,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Tai nghe bên trái không sạc được pin,0.0,4.0,1.96,7.3,94%,device_5564_normal,0
+ORD-10529,CUST-1529,Đỗ Tuấn Kiệt,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Sản phẩm cắm nguồn không nhận điện,3.0,5.9,2.17,28.5,97%,device_2166_normal,0
+ORD-10381,CUST-1381,Phạm Văn Hùng,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Sản phẩm cắm nguồn không nhận điện,2.0,6.3,0.82,20.1,75%,device_4996_normal,0
+ORD-10730,CUST-1180,Dương Hoài An,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Tai nghe bên trái không sạc được pin,0.0,10.7,0.98,38.2,98%,device_7814_normal,0
+ORD-10156,CUST-1156,Đặng Văn Lâm,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,4.4,2.1,31.9,79%,device_9071_normal,0
+ORD-10284,CUST-1284,Dương Quang Vinh,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,14.6,2.4,22.6,97%,device_5331_normal,0
+ORD-10359,CUST-1359,Bùi Hải Đăng,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,89400,Khóa kéo balo bị gãy răng cưa khi thử,0.0,20.8,1.67,16.1,78%,device_2674_normal,0
+ORD-10549,CUST-1549,Nguyễn Văn Hùng,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Sản phẩm cắm nguồn không nhận điện,2.0,11.1,0.73,3.4,91%,device_9095_normal,0
+ORD-10709,CUST-1159,Trần Thanh Tùng,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,744800,Giao nhầm kích cỡ (đặt size L giao size M),0.0,5.7,2.59,7.3,82%,device_2169_normal,0
+ORD-10627,CUST-1077,Lý Hải Đăng,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,380000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",2.0,3.7,0.95,13.0,77%,device_1701_normal,0
+ORD-10654,CUST-1104,Huỳnh Ngọc Ánh,Khách Hàng Mới,Áo Thun Nam Cotton Shopee Choice,149000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,3.0,1.08,21.9,74%,device_8727_normal,0
+ORD-10616,CUST-1066,Đặng Cẩm Ly,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,0.9,1.52,17.3,91%,device_6008_normal,0
+ORD-10458,CUST-1458,Trần Thu Hà,Khách Hàng Mới,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,6.4,2.31,8.2,70%,device_7270_normal,0
+ORD-10623,CUST-1073,Đoàn Hồng Nhung,Khách Hàng Mới,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.1,1.86,1.0,81%,device_7430_normal,0
+ORD-10563,CUST-1013,Lê Hữu Thắng,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,14.0,1.57,16.5,71%,device_9305_normal,0
+ORD-10612,CUST-1062,Phan Gia Huy,Khách Hàng Mới,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Loa rè âm bass và sập nguồn liên tục,0.0,4.7,1.6,8.1,75%,device_4617_normal,0
+ORD-10861,CUST-1311,Trần Văn Lâm,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,6.7,1.33,31.8,79%,device_1447_normal,0
+ORD-10599,CUST-1049,Đoàn Duy Khoa,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Đế giày sneaker bị hở keo ở mũi chân,3.0,9.5,1.66,1.0,95%,device_9335_normal,0
+ORD-10622,CUST-1072,Đinh Văn Lâm,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Đế giày sneaker bị hở keo ở mũi chân,3.0,11.0,0.6,21.1,71%,device_5269_normal,0
+ORD-10329,CUST-1329,Dương Minh Khôi,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,12.9,1.11,68.1,71%,device_5398_normal,0
+ORD-10339,CUST-1339,Đỗ Thu Hà,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Tai nghe bên trái không sạc được pin,1.0,8.8,1.46,4.6,71%,device_9584_normal,0
+ORD-10566,CUST-1016,Phạm Ngọc Ánh,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Tai nghe bên trái không sạc được pin,0.0,2.3,0.6,15.3,72%,device_5990_normal,0
+ORD-10389,CUST-1389,Đặng Minh Anh,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,10.3,1.55,2.3,74%,device_7286_normal,0
+ORD-10202,CUST-1202,Lê Kim Oanh,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,4.4,1.17,23.6,84%,device_9586_normal,0
+ORD-10032,CUST-1032,Đoàn Minh Anh,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,372000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,17.6,2.44,19.2,97%,device_4872_normal,0
+ORD-10223,CUST-1223,Võ Đức Trí,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,7.8,2.32,12.6,83%,device_2821_normal,0
+ORD-10085,CUST-1085,Võ Hữu Thắng,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,9.2,1.0,17.7,92%,device_2876_normal,0
+ORD-10396,CUST-1396,Trần Hữu Thắng,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Bàn phím bị kẹt liệt hàng phím số,1.0,35.8,1.2,54.5,73%,device_5055_normal,0
+ORD-10206,CUST-1206,Lâm Mỹ Duyên,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,13.1,1.25,5.2,82%,device_3112_normal,0
+ORD-10162,CUST-1162,Trần Hoài An,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,10.2,1.01,1.0,72%,device_4394_normal,0
+ORD-10630,CUST-1080,Lâm Quỳnh Chi,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.9,1.43,47.5,88%,device_2275_normal,0
+ORD-10036,CUST-1036,Trần Nhật Nam,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Loa rè âm bass và sập nguồn liên tục,0.0,2.5,0.81,20.7,86%,device_2312_normal,0
+ORD-10811,CUST-1261,Nguyễn Minh Anh,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,6.5,0.6,53.1,89%,device_1477_normal,0
+ORD-10740,CUST-1190,Nguyễn Thảo Nhi,Khách Hàng Mới,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,3.6,1.7,21.8,96%,device_5521_normal,0
+ORD-10692,CUST-1142,Phan Thu Hà,Khách Hàng Vàng,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,22.5,1.71,39.9,85%,device_9985_normal,0
+ORD-10395,CUST-1395,Đoàn Kim Oanh,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Tai nghe bên trái không sạc được pin,0.0,10.3,0.78,13.5,81%,device_9880_normal,0
+ORD-10075,CUST-1075,Ngô Ngọc Ánh,Khách Hàng Mới,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,17.2,1.88,33.3,98%,device_7232_normal,0
+ORD-10227,CUST-1227,Lâm Gia Huy,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,4.6,0.89,58.6,86%,device_9914_normal,0
+ORD-10016,CUST-1016,Hồ Cẩm Ly,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,3.9,1.46,20.4,97%,device_1188_normal,0
+ORD-10186,CUST-1186,Hồ Cẩm Ly,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Bàn phím bị kẹt liệt hàng phím số,0.0,12.2,1.83,4.8,94%,device_5186_normal,0
+ORD-10407,CUST-1407,Lê Hoài An,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,3.5,1.28,7.5,85%,device_5399_normal,0
+ORD-10550,CUST-1550,Hoàng Quốc Bảo,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,5.4,1.6,5.3,98%,device_5192_normal,0
+ORD-10774,CUST-1224,Bùi Quốc Bảo,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Sản phẩm cắm nguồn không nhận điện,0.0,23.2,0.96,6.8,96%,device_3384_normal,0
+ORD-10235,CUST-1235,Đỗ Minh Khôi,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Robot báo lỗi cảm biến laser Lidar liên tục,2.0,5.5,1.17,8.8,73%,device_7029_normal,0
+ORD-10603,CUST-1053,Hoàng Văn Hùng,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,2.0,1.17,19.4,71%,device_3916_normal,0
+ORD-10210,CUST-1210,Phan Cẩm Tú,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,1.2,0.81,21.3,95%,device_2657_normal,0
+ORD-10471,CUST-1471,Lý Văn Hùng,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Bàn phím bị kẹt liệt hàng phím số,0.0,1.7,1.19,13.3,80%,device_3907_normal,0
+ORD-10212,CUST-1212,Trịnh Ngọc Ánh,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,801000,Đế giày sneaker bị hở keo ở mũi chân,4.0,17.9,0.6,22.9,98%,device_3712_normal,0
+ORD-10220,CUST-1220,Đỗ Cẩm Tú,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,4.8,0.98,2.0,80%,device_2623_normal,0
+ORD-10411,CUST-1411,Huỳnh Minh Khôi,Khách Hàng Mới,Chuột Gaming Không Dây Siêu Nhẹ,790000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,35.1,1.11,2.2,78%,device_2350_normal,0
+ORD-10071,CUST-1071,Huỳnh Duy Khoa,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Màn hình bị sọc ngang khi vừa bật nguồn,2.0,21.0,1.13,4.5,96%,device_5543_normal,0
+ORD-10555,CUST-1005,Hồ Bích Ngọc,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,3.0,26.8,1.14,17.5,95%,device_3732_normal,0
+ORD-10868,CUST-1318,Trần Thu Hà,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Vải áo mỏng và có vệt ố màu ở cổ,4.0,15.5,1.26,5.8,94%,device_9724_normal,0
+ORD-10216,CUST-1216,Đinh Kim Oanh,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Bàn phím bị kẹt liệt hàng phím số,1.0,11.8,1.61,8.0,74%,device_5096_normal,0
+ORD-10705,CUST-1155,Huỳnh Hoàng Nam,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,3.8,1.87,12.3,89%,device_9060_normal,0
+ORD-10781,CUST-1231,Phan Quốc Bảo,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,596700,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,7.6,0.88,40.1,97%,device_8496_normal,0
+ORD-10386,CUST-1386,Phạm Tuấn Kiệt,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Loa rè âm bass và sập nguồn liên tục,1.0,12.6,0.6,1.0,80%,device_7367_normal,0
+ORD-10078,CUST-1078,Võ Gia Huy,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,14.9,0.62,25.2,95%,device_7624_normal,0
+ORD-10621,CUST-1071,Phan Tuấn Kiệt,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,2.7,0.98,26.5,98%,device_1305_normal,0
+ORD-10341,CUST-1341,Hoàng Phương Thảo,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,6.6,1.07,38.5,76%,device_9285_normal,0
+ORD-10323,CUST-1323,Vũ Thảo Nhi,Khách Hàng Bạc,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Loa rè âm bass và sập nguồn liên tục,0.0,7.2,0.8,64.8,79%,device_5508_normal,0
+ORD-10882,CUST-1332,Hoàng Văn Lâm,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,7.0,0.6,1.0,78%,device_3483_normal,0
+ORD-10582,CUST-1032,Đặng Hồng Nhung,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,3.1,1.0,4.0,70%,device_7240_normal,0
+ORD-10387,CUST-1387,Trịnh Ngọc Ánh,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,24.8,1.42,52.2,89%,device_3826_normal,0
+ORD-10367,CUST-1367,Bùi Cẩm Ly,Khách Hàng Mới,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,6.4,1.69,14.7,82%,device_6228_normal,0
+ORD-10777,CUST-1227,Trịnh Nhật Nam,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,3.3,0.94,20.0,70%,device_6886_normal,0
+ORD-10137,CUST-1137,Mai Bích Ngọc,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Lòng nồi bị trầy xước lớp chống dính,0.0,25.2,1.03,26.1,98%,device_1474_normal,0
+ORD-10044,CUST-1044,Võ Minh Anh,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Tai nghe bên trái không sạc được pin,1.0,21.0,0.7,27.3,79%,device_4450_normal,0
+ORD-10088,CUST-1088,Trịnh Hoài An,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,436800,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,8.5,1.28,64.4,91%,device_7071_normal,0
+ORD-10259,CUST-1259,Lâm Thị Mai,Khách Hàng Bạc,Áo Thun Nam Cotton Shopee Choice,149000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,5.2,0.75,96.0,90%,device_5336_normal,0
+ORD-10147,CUST-1147,Trịnh Tuấn Kiệt,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,3.0,1.6,1.67,30.6,96%,device_3240_normal,0
+ORD-10704,CUST-1154,Đặng Văn Lâm,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,11.1,0.6,8.1,97%,device_2121_normal,0
+ORD-10653,CUST-1103,Phạm Đức Trí,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,4.9,1.07,50.8,89%,device_1852_normal,0
+ORD-10252,CUST-1252,Lê Thảo Nhi,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Bình đun nước tự ngắt sớm trước khi sôi,2.0,7.5,1.5,1.2,83%,device_7708_normal,0
+ORD-10007,CUST-1007,Lâm Đức Trí,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,23.7,1.42,6.3,79%,device_2307_normal,0
+ORD-10572,CUST-1022,Bùi Minh Anh,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Robot báo lỗi cảm biến laser Lidar liên tục,3.0,4.6,3.05,54.6,88%,device_3018_normal,0
+ORD-10450,CUST-1450,Hoàng Minh Anh,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Sản phẩm cắm nguồn không nhận điện,0.0,10.8,1.53,7.1,94%,device_4401_normal,0
+ORD-10640,CUST-1090,Võ Thu Hà,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Khóa kéo balo bị gãy răng cưa khi thử,3.0,13.2,0.65,6.0,72%,device_4765_normal,0
+ORD-10126,CUST-1126,Phan Quang Vinh,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,17.5,1.24,3.6,78%,device_7798_normal,0
+ORD-10142,CUST-1142,Dương Hải Đăng,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Robot báo lỗi cảm biến laser Lidar liên tục,2.0,7.1,0.6,47.0,92%,device_5097_normal,0
+ORD-10343,CUST-1343,Nguyễn Văn Hùng,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,6.5,1.25,16.6,93%,device_5501_normal,0
+ORD-10373,CUST-1373,Lê Bảo Vy,Khách Hàng Mới,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Áp lực tăm nước yếu không đẩy được cặn bẩn,4.0,6.4,0.76,27.0,86%,device_7853_normal,0
+ORD-10806,CUST-1256,Võ Kim Oanh,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,10.1,1.9,6.6,89%,device_9132_normal,0
+ORD-10102,CUST-1102,Đặng Văn Hùng,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,20.4,0.94,34.1,71%,device_5786_normal,0
+ORD-10877,CUST-1327,Phạm Bích Ngọc,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,6.2,1.22,34.3,78%,device_7995_normal,0
+ORD-10519,CUST-1519,Mai Tuấn Kiệt,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,0.4,0.89,9.0,76%,device_8646_normal,0
+ORD-10300,CUST-1300,Ngô Kim Oanh,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,14.2,2.43,12.7,74%,device_8822_normal,0
+ORD-10371,CUST-1371,Dương Hoài An,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,8.1,1.09,5.6,91%,device_9180_normal,0
+ORD-10211,CUST-1211,Đinh Hữu Thắng,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Loa rè âm bass và sập nguồn liên tục,0.0,11.2,2.49,90.1,80%,device_3147_normal,0
+ORD-10121,CUST-1121,Đinh Hải Đăng,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,1.6,1.83,24.9,71%,device_4335_normal,0
+ORD-10172,CUST-1172,Ngô Bảo Vy,Khách Hàng Bạc,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,4.9,1.61,65.4,82%,device_7815_normal,0
+ORD-10108,CUST-1108,Lâm Cẩm Ly,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,2.0,13.4,1.54,8.7,76%,device_5335_normal,0
+ORD-10778,CUST-1228,Lê Bích Ngọc,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Loa rè âm bass và sập nguồn liên tục,0.0,2.4,1.56,36.5,85%,device_7126_normal,0
+ORD-10105,CUST-1105,Phạm Phương Thảo,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,10.8,0.6,34.8,74%,device_3444_normal,0
+ORD-10696,CUST-1146,Lý Bảo Vy,Khách Hàng Mới,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Màn hình bị sọc ngang khi vừa bật nguồn,3.0,7.5,1.12,28.2,74%,device_9835_normal,0
+ORD-10114,CUST-1114,Hồ Tuấn Kiệt,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,4.1,1.85,80.9,71%,device_8078_normal,0
+ORD-10052,CUST-1052,Ngô Hoài An,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,3.8,1.27,12.0,75%,device_2771_normal,0
+ORD-10107,CUST-1107,Đinh Ngọc Ánh,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,3.1,0.6,3.4,83%,device_6003_normal,0
+ORD-10528,CUST-1528,Bùi Văn Lâm,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,8.0,1.27,26.7,98%,device_6428_normal,0
+ORD-10274,CUST-1274,Phan Cẩm Ly,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,8.8,2.41,31.4,74%,device_6456_normal,0
+ORD-10048,CUST-1048,Hoàng Quỳnh Chi,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,5.7,2.11,20.5,71%,device_6050_normal,0
+ORD-10349,CUST-1349,Lê Đình Trọng,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,2.9,1.26,5.6,97%,device_2562_normal,0
+ORD-10265,CUST-1265,Phạm Tuấn Kiệt,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Sản phẩm cắm nguồn không nhận điện,1.0,10.6,1.92,16.9,82%,device_7850_normal,0
+ORD-10681,CUST-1131,Lý Hoài An,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,14.4,1.06,9.0,93%,device_6172_normal,0
+ORD-10767,CUST-1217,Lý Ngọc Ánh,Khách Hàng Bạc,Áo Thun Nam Cotton Shopee Choice,149000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,3.0,12.0,0.6,13.4,81%,device_5953_normal,0
+ORD-10805,CUST-1255,Trịnh Quang Vinh,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Vải áo mỏng và có vệt ố màu ở cổ,4.0,27.5,0.7,24.9,97%,device_6185_normal,0
+ORD-10233,CUST-1233,Phan Thị Mai,Khách Hàng Bạc,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,6.6,2.32,32.8,79%,device_9444_normal,0
+ORD-10721,CUST-1171,Lý Bích Ngọc,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Tai nghe bên trái không sạc được pin,0.0,19.1,1.12,6.3,76%,device_4057_normal,0
+ORD-10346,CUST-1346,Lê Hải Đăng,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,4.4,1.14,12.5,92%,device_4700_normal,0
+ORD-10610,CUST-1060,Nguyễn Quỳnh Chi,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Sản phẩm cắm nguồn không nhận điện,2.0,3.8,1.11,7.5,88%,device_7456_normal,0
+ORD-10033,CUST-1033,Huỳnh Gia Huy,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,8.4,2.54,5.3,75%,device_7209_normal,0
+ORD-10179,CUST-1179,Trịnh Quang Vinh,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,21.9,2.36,36.7,78%,device_6062_normal,0
+ORD-10163,CUST-1163,Lâm Đức Trí,Khách Hàng Bạc,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,6.1,2.74,57.6,95%,device_1046_normal,0
+ORD-10268,CUST-1268,Đinh Bảo Vy,Khách Hàng Mới,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Áp lực tăm nước yếu không đẩy được cặn bẩn,2.0,1.6,1.2,11.1,71%,device_5609_normal,0
+ORD-10796,CUST-1246,Lý Quỳnh Chi,Khách Hàng Bạc,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Chất kem mỹ phẩm tách nước đổi màu bất thường,3.0,14.2,1.49,33.4,88%,device_8794_normal,0
+ORD-10895,CUST-1345,Nguyễn Thu Hà,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,7.2,0.6,54.6,73%,device_8474_normal,0
+ORD-10741,CUST-1191,Đoàn Kim Oanh,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Áp lực tăm nước yếu không đẩy được cặn bẩn,1.0,9.6,2.26,44.9,71%,device_8542_normal,0
+ORD-10665,CUST-1115,Lâm Đình Trọng,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,4.0,0.6,4.8,84%,device_8548_normal,0
+ORD-10241,CUST-1241,Mai Hoài An,Khách Hàng Mới,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,8.4,1.44,75.1,81%,device_9406_normal,0
+ORD-10900,CUST-1350,Dương Cẩm Tú,Khách Hàng Mới,Giày Thể Thao Nam Sneaker Runner,680000,Bình bị rò rỉ nước ở nắp gioăng cao su,2.0,1.9,0.6,11.3,97%,device_7162_normal,0
+ORD-10506,CUST-1506,Vũ Thị Mai,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,25.0,0.92,9.9,70%,device_6535_normal,0
+ORD-10631,CUST-1081,Đinh Tuấn Kiệt,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,16.0,0.76,1.5,81%,device_6653_normal,0
+ORD-10104,CUST-1104,Lý Đình Trọng,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,8.1,0.9,16.0,97%,device_8827_normal,0
+ORD-10161,CUST-1161,Trần Ngọc Ánh,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,638400,Khóa kéo balo bị gãy răng cưa khi thử,2.0,13.9,0.95,2.8,76%,device_1349_normal,0
+ORD-10791,CUST-1241,Lê Minh Anh,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,4.0,4.4,0.94,6.9,92%,device_7292_normal,0
+ORD-10178,CUST-1178,Lâm Cẩm Tú,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Tai nghe bên trái không sạc được pin,0.0,15.6,1.84,9.1,96%,device_1430_normal,0
+ORD-10838,CUST-1288,Đặng Quỳnh Chi,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,5.8,0.6,39.7,77%,device_9977_normal,0
+ORD-10495,CUST-1495,Ngô Quỳnh Chi,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,5.5,1.44,50.0,77%,device_8803_normal,0
+ORD-10657,CUST-1107,Mai Đình Trọng,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Gãy đót ngọn cần câu khi mở ống nhựa,3.0,3.3,2.09,8.6,86%,device_5685_normal,0
+ORD-10833,CUST-1283,Phạm Bảo Vy,Khách Hàng Vàng,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,10.5,0.97,47.0,85%,device_4796_normal,0
+ORD-10213,CUST-1213,Dương Thị Mai,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Bình đun nước tự ngắt sớm trước khi sôi,2.0,7.8,0.83,46.7,84%,device_5668_normal,0
+ORD-10834,CUST-1284,Vũ Hoàng Nam,Khách Hàng Bạc,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,19.5,1.15,34.7,82%,device_4004_normal,0
+ORD-10484,CUST-1484,Bùi Thu Hà,Khách Hàng Bạc,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,2.9,2.07,3.8,98%,device_2525_normal,0
+ORD-10369,CUST-1369,Võ Phương Thảo,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Sản phẩm cắm nguồn không nhận điện,0.0,10.5,1.43,28.1,76%,device_9939_normal,0
+ORD-10713,CUST-1163,Huỳnh Văn Lâm,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Tai nghe bên trái không sạc được pin,0.0,17.1,0.95,69.6,78%,device_8884_normal,0
+ORD-10400,CUST-1400,Trần Nhật Nam,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Cối xay rò rỉ nước ở chân đế trục dao,2.0,8.9,1.61,27.5,80%,device_5794_normal,0
+ORD-10301,CUST-1301,Bùi Quang Vinh,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,5.8,0.6,9.7,80%,device_5947_normal,0
+ORD-10797,CUST-1247,Dương Gia Huy,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Cối xay rò rỉ nước ở chân đế trục dao,4.0,8.7,1.74,16.7,98%,device_9967_normal,0
+ORD-10225,CUST-1225,Lê Minh Anh,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Cối xay rò rỉ nước ở chân đế trục dao,4.0,18.5,1.57,24.9,90%,device_9443_normal,0
+ORD-10520,CUST-1520,Đặng Mỹ Duyên,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,18.5,1.1,17.1,70%,device_9380_normal,0
+ORD-10798,CUST-1248,Võ Cẩm Ly,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Bàn phím bị kẹt liệt hàng phím số,1.0,7.0,0.75,3.1,74%,device_1902_normal,0
+ORD-10449,CUST-1449,Bùi Thanh Tùng,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,18.2,0.72,9.0,74%,device_2785_normal,0
+ORD-10353,CUST-1353,Lê Thảo Nhi,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Trục ép kẹt cứng không quay được khi cho hoa quả,2.0,7.5,1.65,38.9,87%,device_6435_normal,0
+ORD-10481,CUST-1481,Trần Ngọc Ánh,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Lòng nồi bị trầy xước lớp chống dính,0.0,13.8,2.1,47.4,85%,device_7204_normal,0
+ORD-10197,CUST-1197,Mai Thanh Tùng,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,11.4,0.89,3.5,78%,device_1920_normal,0
+ORD-10295,CUST-1295,Huỳnh Quang Vinh,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,5.6,1.6,73.1,75%,device_5742_normal,0
+ORD-10166,CUST-1166,Trần Hoàng Nam,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Sản phẩm cắm nguồn không nhận điện,3.0,3.4,0.6,9.6,85%,device_8344_normal,0
+ORD-10816,CUST-1266,Đỗ Quốc Bảo,Khách Hàng Mới,Chuột Gaming Không Dây Siêu Nhẹ,790000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,17.4,0.92,26.1,82%,device_9753_normal,0
+ORD-10661,CUST-1111,Lê Quỳnh Chi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,20.7,1.28,33.4,96%,device_5530_normal,0
+ORD-10460,CUST-1460,Trần Cẩm Ly,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,10.3,0.71,40.1,83%,device_8848_normal,0
+ORD-10356,CUST-1356,Bùi Văn Hùng,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,7.5,0.69,69.9,81%,device_7150_normal,0
+ORD-10650,CUST-1100,Trịnh Tuấn Kiệt,Khách Hàng Mới,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Đế giày sneaker bị hở keo ở mũi chân,0.0,2.6,0.87,9.0,87%,device_8904_normal,0
+ORD-10485,CUST-1485,Bùi Cẩm Ly,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,17.1,1.49,46.9,83%,device_3703_normal,0
+ORD-10428,CUST-1428,Phan Hoài An,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,9.5,1.18,3.4,90%,device_2083_normal,0
+ORD-10884,CUST-1334,Lý Gia Huy,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,0.0,6.2,0.6,29.3,72%,device_9849_normal,0
+ORD-10066,CUST-1066,Dương Gia Huy,Khách Hàng Bạc,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Bàn phím bị kẹt liệt hàng phím số,1.0,14.1,0.6,32.5,82%,device_9099_normal,0
+ORD-10567,CUST-1017,Đinh Quỳnh Chi,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,2.1,0.91,27.2,71%,device_4652_normal,0
+ORD-10591,CUST-1041,Phạm Ngọc Ánh,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bình bị rò rỉ nước ở nắp gioăng cao su,2.0,3.1,1.6,7.0,97%,device_5178_normal,0
+ORD-10020,CUST-1020,Đỗ Hữu Thắng,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,376200,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,4.3,0.6,49.5,85%,device_1319_normal,0
+ORD-10541,CUST-1541,Hoàng Đức Trí,Khách Hàng Bạc,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Loa rè âm bass và sập nguồn liên tục,1.0,11.1,0.98,4.4,81%,device_1612_normal,0
+ORD-10063,CUST-1063,Dương Bảo Vy,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Loa rè âm bass và sập nguồn liên tục,2.0,8.8,0.96,1.3,98%,device_3780_normal,0
+ORD-10238,CUST-1238,Lê Gia Huy,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Lòng nồi bị trầy xước lớp chống dính,0.0,12.1,2.2,30.3,80%,device_2680_normal,0
+ORD-10624,CUST-1074,Vũ Hồng Nhung,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,16.3,1.05,15.5,86%,device_9362_normal,0
+ORD-10606,CUST-1056,Lâm Thị Mai,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,12.4,1.55,45.4,73%,device_5748_normal,0
+ORD-10737,CUST-1187,Ngô Hữu Thắng,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,25.4,1.39,11.6,77%,device_9939_normal,0
+ORD-10498,CUST-1498,Huỳnh Đức Trí,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,16.3,0.6,4.4,91%,device_8133_normal,0
+ORD-10410,CUST-1410,Dương Bảo Vy,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,7.0,1.8,43.5,98%,device_5945_normal,0
+ORD-10500,CUST-1500,Lê Ngọc Ánh,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,4.9,1.44,19.1,86%,device_8506_normal,0
+ORD-10038,CUST-1038,Lâm Cẩm Ly,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,7.1,1.63,5.0,80%,device_5272_normal,0
+ORD-10756,CUST-1206,Huỳnh Hải Đăng,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,12.7,3.85,30.6,84%,device_1735_normal,0
+ORD-10568,CUST-1018,Dương Thanh Tùng,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,5.4,0.6,17.2,91%,device_6952_normal,0
+ORD-10611,CUST-1061,Đoàn Quỳnh Chi,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Bàn phím bị kẹt liệt hàng phím số,1.0,12.9,2.42,22.3,98%,device_6633_normal,0
+ORD-10593,CUST-1043,Mai Cẩm Ly,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,11.9,1.11,14.8,87%,device_6866_normal,0
+ORD-10829,CUST-1279,Đặng Cẩm Ly,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,3.3,1.49,42.3,70%,device_8712_normal,0
+ORD-10426,CUST-1426,Đặng Văn Lâm,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,2.0,16.1,1.27,42.5,82%,device_2350_normal,0
+ORD-10802,CUST-1252,Đỗ Hồng Nhung,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Đế giày sneaker bị hở keo ở mũi chân,0.0,10.1,1.02,29.7,87%,device_2063_normal,0
+ORD-10106,CUST-1106,Lâm Thảo Nhi,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Đế giày sneaker bị hở keo ở mũi chân,0.0,24.6,0.93,2.7,89%,device_4697_normal,0
+ORD-10009,CUST-1009,Võ Bích Ngọc,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,7.6,1.51,43.8,75%,device_9751_normal,0
+ORD-10342,CUST-1342,Dương Hải Đăng,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,243600,Cối xay rò rỉ nước ở chân đế trục dao,0.0,6.0,0.6,26.7,91%,device_8993_normal,0
+ORD-10053,CUST-1053,Hồ Minh Khôi,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,3.0,1.79,28.7,96%,device_4728_normal,0
+ORD-10402,CUST-1402,Trần Tuấn Kiệt,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,2.9,1.03,10.8,77%,device_3396_normal,0
+ORD-10584,CUST-1034,Võ Hoàng Nam,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,3.0,14.8,0.6,50.7,94%,device_9866_normal,0
+ORD-10302,CUST-1302,Lâm Duy Khoa,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,23.0,1.01,31.0,77%,device_2017_normal,0
+ORD-10207,CUST-1207,Trịnh Bích Ngọc,Khách Hàng Mới,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Tai nghe bên trái không sạc được pin,3.0,7.1,2.12,2.9,95%,device_6381_normal,0
+ORD-10249,CUST-1249,Huỳnh Bích Ngọc,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.7,0.95,12.6,81%,device_9335_normal,0
+ORD-10857,CUST-1307,Võ Bảo Vy,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,8.1,1.53,52.2,85%,device_2279_normal,0
+ORD-10707,CUST-1157,Võ Hoàng Nam,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,16.8,0.82,1.2,74%,device_1241_normal,0
+ORD-10021,CUST-1021,Phạm Quang Vinh,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,4.0,3.4,1.79,78.1,71%,device_4946_normal,0
+ORD-10483,CUST-1483,Huỳnh Bảo Vy,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,9.2,1.75,27.3,73%,device_2215_normal,0
+ORD-10456,CUST-1456,Mai Văn Lâm,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,15.0,2.5,24.0,72%,device_4239_normal,0
+ORD-10157,CUST-1157,Phạm Minh Anh,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,11.0,1.19,7.6,93%,device_9850_normal,0
+ORD-10171,CUST-1171,Đặng Bảo Vy,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Sản phẩm cắm nguồn không nhận điện,0.0,0.2,1.73,6.9,73%,device_4522_normal,0
+ORD-10870,CUST-1320,Nguyễn Thảo Nhi,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,12.4,1.36,68.4,86%,device_1672_normal,0
+ORD-10023,CUST-1023,Lý Quỳnh Chi,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,793600,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,11.1,2.14,8.5,87%,device_4295_normal,0
+ORD-10486,CUST-1486,Trịnh Hồng Nhung,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Sản phẩm cắm nguồn không nhận điện,0.0,19.1,0.83,35.9,76%,device_7705_normal,0
+ORD-10769,CUST-1219,Đoàn Tuấn Kiệt,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,2821500,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,21.8,1.78,12.0,93%,device_7262_normal,0
+ORD-10309,CUST-1309,Dương Minh Anh,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,18.4,1.17,3.6,98%,device_9361_normal,0
+ORD-10089,CUST-1089,Lê Kim Oanh,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,8.1,1.26,1.0,73%,device_8102_normal,0
+ORD-10807,CUST-1257,Đinh Duy Khoa,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,1.5,1.36,18.9,89%,device_4812_normal,0
+ORD-10552,CUST-1002,Trần Minh Khôi,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1247000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,6.7,1.46,89.3,73%,device_1751_normal,0
+ORD-10642,CUST-1092,Trịnh Minh Anh,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,682500,Giao nhầm kích cỡ (đặt size L giao size M),2.0,7.9,1.22,11.1,87%,device_9246_normal,0
+ORD-10248,CUST-1248,Bùi Mỹ Duyên,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Tai nghe bên trái không sạc được pin,0.0,22.8,1.44,10.6,98%,device_5914_normal,0
+ORD-10149,CUST-1149,Lâm Hải Đăng,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,4.0,2.33,10.1,83%,device_3877_normal,0
+ORD-10493,CUST-1493,Lâm Thị Mai,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,533200,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,2.2,1.94,17.6,95%,device_9871_normal,0
+ORD-10215,CUST-1215,Đỗ Mỹ Duyên,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,5.4,1.86,13.9,94%,device_7256_normal,0
+ORD-10028,CUST-1028,Vũ Hoài An,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Bàn phím bị kẹt liệt hàng phím số,0.0,4.2,1.0,50.9,91%,device_8062_normal,0
+ORD-10193,CUST-1193,Lê Kim Oanh,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Loa rè âm bass và sập nguồn liên tục,0.0,2.0,0.72,16.9,94%,device_6724_normal,0
+ORD-10722,CUST-1172,Đoàn Hải Đăng,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,7.2,1.92,17.0,89%,device_3627_normal,0
+ORD-10115,CUST-1115,Bùi Cẩm Ly,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,8.2,1.87,3.6,88%,device_1339_normal,0
+ORD-10196,CUST-1196,Dương Hữu Thắng,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,1.9,2.26,96.0,98%,device_6295_normal,0
+ORD-10015,CUST-1015,Phạm Hoàng Nam,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,6.0,0.91,6.9,72%,device_7304_normal,0
+ORD-10139,CUST-1139,Đinh Gia Huy,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Lòng nồi bị trầy xước lớp chống dính,0.0,4.0,1.15,1.8,72%,device_7267_normal,0
+ORD-10129,CUST-1129,Dương Quang Vinh,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,8.4,0.6,26.1,82%,device_4826_normal,0
+ORD-10090,CUST-1090,Đỗ Văn Lâm,Khách Hàng Bạc,Tai Nghe True Wireless Nhét Tai,390000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,9.0,1.04,21.7,75%,device_9548_normal,0
+ORD-10691,CUST-1141,Huỳnh Thu Hà,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,4.0,1.95,12.9,78%,device_2311_normal,0
+ORD-10632,CUST-1082,Lý Hoài An,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,16.0,1.0,13.2,74%,device_8207_normal,0
+ORD-10634,CUST-1084,Vũ Gia Huy,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Sản phẩm cắm nguồn không nhận điện,0.0,7.8,1.72,36.9,85%,device_8848_normal,0
+ORD-10311,CUST-1311,Đặng Duy Khoa,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,1556300,Bình đun nước tự ngắt sớm trước khi sôi,1.0,4.2,1.18,5.2,72%,device_1742_normal,0
+ORD-10499,CUST-1499,Phan Phương Thảo,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,1.7,1.51,41.2,93%,device_2097_normal,0
+ORD-10826,CUST-1276,Võ Quỳnh Chi,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,9.4,0.6,25.1,74%,device_3580_normal,0
+ORD-10415,CUST-1415,Hoàng Đình Trọng,Kim Cương VIP,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,2.0,11.1,1.36,13.0,80%,device_7022_normal,0
+ORD-10859,CUST-1309,Nguyễn Đình Trọng,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Chất kem mỹ phẩm tách nước đổi màu bất thường,3.0,5.1,0.6,14.7,80%,device_7897_normal,0
+ORD-10489,CUST-1489,Ngô Quốc Bảo,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1050800,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,8.6,1.18,7.1,70%,device_4390_normal,0
+ORD-10846,CUST-1296,Lê Nhật Nam,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,620000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,21.8,0.6,33.5,71%,device_7049_normal,0
+ORD-10176,CUST-1176,Trần Thảo Nhi,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Sản phẩm cắm nguồn không nhận điện,1.0,14.3,2.08,17.3,76%,device_3535_normal,0
+ORD-10014,CUST-1014,Đỗ Cẩm Tú,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Loa rè âm bass và sập nguồn liên tục,1.0,0.7,1.81,9.3,94%,device_1771_normal,0
+ORD-10849,CUST-1299,Hồ Gia Huy,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Lòng nồi bị trầy xước lớp chống dính,0.0,4.1,1.6,21.8,76%,device_7301_normal,0
+ORD-10019,CUST-1019,Đinh Quang Vinh,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.9,2.29,96.0,76%,device_3504_normal,0
+ORD-10548,CUST-1548,Đặng Thu Hà,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,643500,Gối có mùi cao su nồng gắt gây khó chịu,0.0,8.1,0.68,13.7,80%,device_4842_normal,0
+ORD-10776,CUST-1226,Hoàng Hữu Thắng,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Đế giày sneaker bị hở keo ở mũi chân,0.0,8.7,2.44,60.8,89%,device_5372_normal,0
+ORD-10865,CUST-1315,Đinh Minh Khôi,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1566000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,10.6,1.91,10.2,74%,device_9125_normal,0
+ORD-10690,CUST-1140,Dương Hữu Thắng,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,7.1,1.15,1.4,84%,device_7782_normal,0
+ORD-10266,CUST-1266,Vũ Minh Khôi,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,7.8,2.04,5.5,93%,device_6123_normal,0
+ORD-10619,CUST-1069,Hoàng Mỹ Duyên,Khách Hàng Bạc,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,14.8,0.6,13.0,81%,device_6004_normal,0
+ORD-10081,CUST-1081,Bùi Đức Trí,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Đế giày sneaker bị hở keo ở mũi chân,0.0,9.5,0.76,6.0,78%,device_7906_normal,0
+ORD-10190,CUST-1190,Mai Gia Huy,Kim Cương VIP,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,2.7,0.9,1.0,89%,device_8538_normal,0
+ORD-10837,CUST-1287,Đinh Minh Anh,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,8.3,0.96,59.2,87%,device_2162_normal,0
+ORD-10192,CUST-1192,Lê Ngọc Ánh,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Con lăn chuột bị kẹt rít khi cuộn trang,2.0,6.9,0.61,44.6,94%,device_3754_normal,0
+ORD-10770,CUST-1220,Đinh Mỹ Duyên,Khách Hàng Vàng,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,1.0,2.1,32.5,77%,device_3502_normal,0
+ORD-10272,CUST-1272,Dương Hữu Thắng,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,8.7,1.13,4.4,73%,device_3108_normal,0
+ORD-10639,CUST-1089,Trịnh Hoàng Nam,Khách Hàng Bạc,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Đế giày sneaker bị hở keo ở mũi chân,0.0,3.0,1.53,3.1,91%,device_9369_normal,0
+ORD-10461,CUST-1461,Trần Quốc Bảo,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,15.0,0.93,1.7,86%,device_5082_normal,0
+ORD-10687,CUST-1137,Hồ Cẩm Ly,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,580000,Lòng nồi bị trầy xước lớp chống dính,0.0,10.5,0.6,30.9,80%,device_7911_normal,0
+ORD-10466,CUST-1466,Phạm Cẩm Tú,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Tai nghe bên trái không sạc được pin,0.0,2.5,1.48,63.4,93%,device_1916_normal,0
+ORD-10602,CUST-1052,Phạm Đức Trí,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,14.5,0.6,13.5,90%,device_2181_normal,0
+ORD-10322,CUST-1322,Vũ Phương Thảo,Khách Hàng Mới,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,19.3,1.26,3.0,94%,device_6253_normal,0
+ORD-10305,CUST-1305,Lý Hoàng Nam,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,6.3,0.6,17.2,87%,device_8714_normal,0
+ORD-10881,CUST-1331,Võ Minh Anh,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,6.9,2.59,10.3,70%,device_9154_normal,0
+ORD-10757,CUST-1207,Vũ Đức Trí,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Đế giày sneaker bị hở keo ở mũi chân,0.0,13.6,1.89,11.3,72%,device_2841_normal,0
+ORD-10403,CUST-1403,Bùi Phương Thảo,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,475999,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,18.3,1.37,23.3,90%,device_5402_normal,0
+ORD-10187,CUST-1187,Đặng Thanh Tùng,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,654500,Lòng nồi bị trầy xước lớp chống dính,0.0,1.4,2.12,30.4,87%,device_4770_normal,0
+ORD-10474,CUST-1474,Bùi Hoàng Nam,Khách Hàng Mới,Đồng Hồ Nam Dây Da Chống Nước,750000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,2.0,2.8,0.75,2.8,85%,device_6198_normal,0
+ORD-10678,CUST-1128,Lý Cẩm Ly,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,5.5,1.65,1.0,83%,device_7099_normal,0
+ORD-10117,CUST-1117,Lâm Gia Huy,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,6.0,1.43,96.0,83%,device_6460_normal,0
+ORD-10017,CUST-1017,Phạm Mỹ Duyên,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,13.3,1.47,6.4,80%,device_2827_normal,0
+ORD-10860,CUST-1310,Đỗ Hoài An,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,18.4,2.13,1.3,93%,device_5267_normal,0
+ORD-10889,CUST-1339,Phạm Văn Lâm,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,19.3,1.78,5.1,84%,device_4104_normal,0
+ORD-10261,CUST-1261,Đặng Văn Lâm,Khách Hàng Mới,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,1.4,1.49,1.0,91%,device_7653_normal,0
+ORD-10364,CUST-1364,Đặng Đình Trọng,Khách Hàng Bạc,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Màn hình bị sọc ngang khi vừa bật nguồn,1.0,3.8,0.6,11.9,93%,device_9123_normal,0
+ORD-10742,CUST-1192,Đỗ Hoàng Nam,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,3213000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,4.7,0.68,38.9,95%,device_5920_normal,0
+ORD-10677,CUST-1127,Bùi Hải Đăng,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Lòng nồi bị trầy xước lớp chống dính,0.0,3.8,1.22,10.0,77%,device_5413_normal,0
+ORD-10476,CUST-1476,Hồ Thảo Nhi,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,10.5,1.36,14.1,70%,device_7415_normal,0
+ORD-10875,CUST-1325,Đặng Tuấn Kiệt,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,186250,Giao nhầm kích cỡ (đặt size L giao size M),0.0,11.4,0.6,27.0,91%,device_4552_normal,0
+ORD-10423,CUST-1423,Nguyễn Hải Đăng,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,7.7,2.87,17.1,88%,device_7895_normal,0
+ORD-10436,CUST-1436,Lâm Mỹ Duyên,Khách Hàng Bạc,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Bình đun nước tự ngắt sớm trước khi sôi,1.0,7.2,2.29,47.4,71%,device_1201_normal,0
+ORD-10523,CUST-1523,Phan Hoàng Nam,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,5.7,1.69,48.2,95%,device_7620_normal,0
+ORD-10111,CUST-1111,Mai Nhật Nam,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bàn phím bị kẹt liệt hàng phím số,0.0,6.2,1.35,1.0,87%,device_4683_normal,0
+ORD-10808,CUST-1258,Đặng Đức Trí,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,149000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,4.0,21.6,1.16,36.1,97%,device_4396_normal,0
+ORD-10047,CUST-1047,Mai Tuấn Kiệt,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,12.6,0.68,14.8,73%,device_2232_normal,0
+ORD-10880,CUST-1330,Phạm Hoàng Nam,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Bàn phím bị kẹt liệt hàng phím số,0.0,5.9,1.35,96.0,73%,device_8234_normal,0
+ORD-10565,CUST-1015,Lê Minh Khôi,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Sản phẩm cắm nguồn không nhận điện,0.0,7.0,1.47,15.8,93%,device_1291_normal,0
+ORD-10049,CUST-1049,Đỗ Hồng Nhung,Khách Hàng Mới,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,10.6,0.6,96.0,76%,device_5088_normal,0
+ORD-10839,CUST-1289,Huỳnh Đình Trọng,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Bàn phím bị kẹt liệt hàng phím số,0.0,2.5,1.52,33.7,88%,device_8063_normal,0
+ORD-10303,CUST-1303,Phạm Bảo Vy,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,8.5,1.2,6.9,98%,device_6095_normal,0
+ORD-10438,CUST-1438,Đoàn Hoài An,Khách Hàng Mới,Đồng Hồ Nam Dây Da Chống Nước,750000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,12.1,0.6,18.6,80%,device_5067_normal,0
+ORD-10536,CUST-1536,Nguyễn Hồng Nhung,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Loa rè âm bass và sập nguồn liên tục,0.0,11.0,0.74,96.0,91%,device_1067_normal,0
+ORD-10255,CUST-1255,Ngô Kim Oanh,Khách Hàng Mới,Giày Thể Thao Nam Sneaker Runner,680000,Sản phẩm cắm nguồn không nhận điện,0.0,3.9,1.03,46.8,79%,device_3697_normal,0
+ORD-10751,CUST-1201,Lý Nhật Nam,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Trục ép kẹt cứng không quay được khi cho hoa quả,2.0,4.5,2.53,2.5,82%,device_9221_normal,0
+ORD-10701,CUST-1151,Nguyễn Hữu Thắng,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,0.9,1.66,29.4,70%,device_9981_normal,0
+ORD-10308,CUST-1308,Đoàn Hồng Nhung,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Tai nghe bên trái không sạc được pin,0.0,13.0,0.6,10.2,80%,device_9525_normal,0
+ORD-10490,CUST-1490,Huỳnh Văn Lâm,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Sản phẩm cắm nguồn không nhận điện,0.0,27.8,1.62,1.0,82%,device_8715_normal,0
+ORD-10082,CUST-1082,Võ Phương Thảo,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,421670,Giao nhầm kích cỡ (đặt size L giao size M),4.0,3.4,0.6,12.4,81%,device_4673_normal,0
+ORD-10448,CUST-1448,Ngô Mỹ Duyên,Khách Hàng Mới,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Vải áo mỏng và có vệt ố màu ở cổ,0.0,16.2,2.0,6.4,80%,device_7438_normal,0
+ORD-10298,CUST-1298,Bùi Thu Hà,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,26.2,0.99,41.0,70%,device_6523_normal,0
+ORD-10086,CUST-1086,Huỳnh Thảo Nhi,Kim Cương VIP,Áo Thun Nam Cotton Shopee Choice,213070,Áp lực tăm nước yếu không đẩy được cặn bẩn,3.0,5.2,1.24,9.9,82%,device_7498_normal,0
+ORD-10538,CUST-1538,Lâm Thảo Nhi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Vải áo mỏng và có vệt ố màu ở cổ,2.0,7.1,2.16,42.2,86%,device_9587_normal,0
+ORD-10809,CUST-1259,Trịnh Gia Huy,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,2.0,9.3,0.6,1.0,90%,device_4478_normal,0
+ORD-10645,CUST-1095,Hồ Hải Đăng,Khách Hàng Vàng,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,0.0,10.8,0.6,8.8,88%,device_2600_normal,0
+ORD-10540,CUST-1540,Phan Thu Hà,Khách Hàng Mới,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,9.6,0.92,6.6,77%,device_4675_normal,0
+ORD-10508,CUST-1508,Hoàng Thảo Nhi,Khách Hàng Mới,Tai Nghe True Wireless Nhét Tai,390000,Đế giày sneaker bị hở keo ở mũi chân,1.0,5.6,1.97,6.4,78%,device_7828_normal,0
+ORD-10159,CUST-1159,Trịnh Gia Huy,Khách Hàng Mới,Chuột Gaming Không Dây Siêu Nhẹ,790000,Giao nhầm kích cỡ (đặt size L giao size M),3.0,12.0,0.6,1.7,76%,device_8264_normal,0
+ORD-10731,CUST-1181,Đỗ Hoài An,Khách Hàng Bạc,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,5.7,0.6,5.0,71%,device_2153_normal,0
+ORD-10703,CUST-1153,Hồ Cẩm Tú,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,788900,Loa rè âm bass và sập nguồn liên tục,1.0,10.1,1.01,19.5,89%,device_5454_normal,0
+ORD-10664,CUST-1114,Võ Hồng Nhung,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,7.5,1.66,8.3,84%,device_7178_normal,0
+ORD-10230,CUST-1230,Đỗ Cẩm Tú,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Sản phẩm cắm nguồn không nhận điện,1.0,1.2,2.08,13.0,93%,device_6447_normal,0
+ORD-10693,CUST-1143,Trần Văn Hùng,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Đế giày sneaker bị hở keo ở mũi chân,0.0,17.9,1.0,11.4,73%,device_5300_normal,0
+ORD-10475,CUST-1475,Huỳnh Bích Ngọc,Khách Hàng Mới,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,4.6,1.03,50.1,77%,device_3872_normal,0
+ORD-10350,CUST-1350,Đinh Quang Vinh,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,584500,Gối có mùi cao su nồng gắt gây khó chịu,0.0,19.1,2.05,56.6,85%,device_5441_normal,0
+ORD-10526,CUST-1526,Đoàn Văn Lâm,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,15.8,0.6,16.3,79%,device_3785_normal,0
+ORD-10437,CUST-1437,Vũ Thị Mai,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,9.1,1.05,9.6,97%,device_1579_normal,0
+ORD-10646,CUST-1096,Ngô Hoàng Nam,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,380000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,11.2,1.42,2.7,98%,device_9908_normal,0
+ORD-10445,CUST-1445,Đặng Minh Anh,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,12.2,1.59,73.6,74%,device_5584_normal,0
+ORD-10191,CUST-1191,Đỗ Quốc Bảo,Khách Hàng Vàng,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,6.6,0.97,1.5,82%,device_9584_normal,0
+ORD-10629,CUST-1079,Trần Văn Lâm,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Loa rè âm bass và sập nguồn liên tục,1.0,6.8,1.32,8.5,78%,device_5314_normal,0
+ORD-10378,CUST-1378,Hoàng Hải Đăng,Khách Hàng Mới,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Sản phẩm cắm nguồn không nhận điện,0.0,11.8,0.6,8.5,72%,device_2901_normal,0
+ORD-10433,CUST-1433,Phạm Hữu Thắng,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,7.6,0.87,9.3,86%,device_2046_normal,0
+ORD-10775,CUST-1225,Nguyễn Hữu Thắng,Khách Hàng Vàng,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,5.6,1.59,4.3,93%,device_5485_normal,0
+ORD-10093,CUST-1093,Dương Nhật Nam,Khách Hàng Vàng,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,3.9,0.66,36.7,97%,device_6325_normal,0
+ORD-10434,CUST-1434,Võ Bích Ngọc,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,10.3,1.34,3.1,86%,device_6900_normal,0
+ORD-10615,CUST-1065,Lâm Đình Trọng,Khách Hàng Mới,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,4.5,1.59,24.2,77%,device_2639_normal,0
+ORD-10891,CUST-1341,Mai Thảo Nhi,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,14.0,1.08,3.2,70%,device_1606_normal,0
+ORD-10275,CUST-1275,Lý Kim Oanh,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Loa rè âm bass và sập nguồn liên tục,4.0,14.8,1.41,1.8,89%,device_6218_normal,0
+ORD-10488,CUST-1488,Phạm Thị Mai,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,11.1,0.67,57.6,81%,device_1062_normal,0
+ORD-10813,CUST-1263,Mai Hoàng Nam,Khách Hàng Vàng,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,12.8,1.17,5.1,87%,device_6490_normal,0
+ORD-10457,CUST-1457,Mai Bảo Vy,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,11.2,1.7,41.3,71%,device_8552_normal,0
+ORD-10502,CUST-1502,Hoàng Hoàng Nam,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Đế giày sneaker bị hở keo ở mũi chân,1.0,13.5,1.4,18.9,73%,device_2730_normal,0
+ORD-10205,CUST-1205,Võ Duy Khoa,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,13.1,0.92,1.9,80%,device_2335_normal,0
+ORD-10525,CUST-1525,Hồ Duy Khoa,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,316200,Bàn phím bị kẹt liệt hàng phím số,1.0,9.9,1.45,74.7,92%,device_4643_normal,0
+ORD-10377,CUST-1377,Đoàn Nhật Nam,Khách Hàng Bạc,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,15.9,1.76,6.8,84%,device_9199_normal,0
+ORD-10099,CUST-1099,Võ Thảo Nhi,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,915600,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,6.7,0.6,47.1,87%,device_4033_normal,0
+ORD-10682,CUST-1132,Lý Thảo Nhi,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,4.0,2.05,4.4,75%,device_1983_normal,0
+ORD-10368,CUST-1368,Đặng Duy Khoa,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Áp lực tăm nước yếu không đẩy được cặn bẩn,3.0,3.9,1.08,46.2,80%,device_7161_normal,0
+ORD-10135,CUST-1135,Hồ Thanh Tùng,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Đế giày sneaker bị hở keo ở mũi chân,2.0,6.0,1.58,1.0,87%,device_1588_normal,0
+ORD-10618,CUST-1068,Nguyễn Thanh Tùng,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,925600,Robot báo lỗi cảm biến laser Lidar liên tục,3.0,1.0,2.08,17.2,96%,device_6889_normal,0
+ORD-10702,CUST-1152,Đỗ Đức Trí,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,9.0,0.6,35.2,75%,device_7385_normal,0
+ORD-10318,CUST-1318,Võ Đức Trí,Khách Hàng Mới,Đồng Hồ Nam Dây Da Chống Nước,750000,Đế giày sneaker bị hở keo ở mũi chân,1.0,12.3,0.84,65.5,95%,device_7868_normal,0
+ORD-10754,CUST-1204,Vũ Quốc Bảo,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Áp lực tăm nước yếu không đẩy được cặn bẩn,3.0,14.7,1.11,57.6,91%,device_7776_normal,0
+ORD-10443,CUST-1443,Đoàn Hữu Thắng,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,1.5,0.79,41.1,70%,device_4817_normal,0
+ORD-10503,CUST-1503,Lâm Hữu Thắng,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,662400,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,4.0,2.43,52.6,78%,device_7275_normal,0
+ORD-10306,CUST-1306,Đoàn Hoài An,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Đế giày sneaker bị hở keo ở mũi chân,1.0,13.7,0.74,5.3,94%,device_2341_normal,0
+ORD-10124,CUST-1124,Dương Minh Anh,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Chất kem mỹ phẩm tách nước đổi màu bất thường,1.0,6.6,0.94,8.0,79%,device_9337_normal,0
+ORD-10862,CUST-1312,Đặng Đình Trọng,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,620000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,2.0,12.1,1.43,8.2,74%,device_5603_normal,0
+ORD-10670,CUST-1120,Phan Cẩm Tú,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,2.4,0.6,11.4,76%,device_5091_normal,0
+ORD-10771,CUST-1221,Ngô Thảo Nhi,Khách Hàng Mới,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Khóa kéo balo bị gãy răng cưa khi thử,1.0,18.9,1.04,12.0,76%,device_3270_normal,0
+ORD-10663,CUST-1113,Ngô Kim Oanh,Kim Cương VIP,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Con lăn chuột bị kẹt rít khi cuộn trang,0.0,2.2,1.51,18.9,95%,device_9409_normal,0
+ORD-10872,CUST-1322,Bùi Tuấn Kiệt,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,8.8,1.08,4.2,94%,device_4961_normal,0
+ORD-10413,CUST-1413,Ngô Văn Lâm,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,9.0,1.24,28.2,88%,device_4705_normal,0
+ORD-10799,CUST-1249,Mai Hải Đăng,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Áp lực tăm nước yếu không đẩy được cặn bẩn,2.0,5.1,0.96,4.4,79%,device_6424_normal,0
+ORD-10398,CUST-1398,Dương Minh Khôi,Khách Hàng Mới,Balo Laptop Chống Nước Đa Năng,380000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,10.9,0.6,8.9,95%,device_6744_normal,0
+ORD-10167,CUST-1167,Đỗ Kim Oanh,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Loa rè âm bass và sập nguồn liên tục,0.0,11.1,1.51,16.8,89%,device_1710_normal,0
+ORD-10214,CUST-1214,Dương Cẩm Tú,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,10.2,2.44,38.2,98%,device_4178_normal,0
+ORD-10022,CUST-1022,Lâm Quốc Bảo,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,847000,Đế giày sneaker bị hở keo ở mũi chân,2.0,5.0,1.31,32.3,74%,device_3103_normal,0
+ORD-10823,CUST-1273,Dương Ngọc Ánh,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Sản phẩm cắm nguồn không nhận điện,0.0,4.2,1.45,24.9,71%,device_2426_normal,0
+ORD-10790,CUST-1240,Dương Quốc Bảo,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,787400,Gối có mùi cao su nồng gắt gây khó chịu,2.0,5.5,1.75,4.1,92%,device_3024_normal,0
+ORD-10246,CUST-1246,Võ Hữu Thắng,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,3.7,0.6,19.0,85%,device_4279_normal,0
+ORD-10183,CUST-1183,Huỳnh Hữu Thắng,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,16.4,2.41,2.2,91%,device_7947_normal,0
+ORD-10262,CUST-1262,Đặng Bảo Vy,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,680000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,5.9,1.43,11.4,76%,device_6573_normal,0
+ORD-10409,CUST-1409,Trần Thị Mai,Kim Cương VIP,Nồi Chiên Không Dầu Điện Tử 6L,1798000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,8.6,2.36,12.8,97%,device_3588_normal,0
+ORD-10095,CUST-1095,Đoàn Văn Hùng,Khách Hàng Vàng,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",1.0,13.7,0.82,1.0,83%,device_9004_normal,0
+ORD-10617,CUST-1067,Lâm Hoàng Nam,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,3.6,2.48,7.7,83%,device_3762_normal,0
+ORD-10561,CUST-1011,Lý Hải Đăng,Khách Hàng Bạc,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,2.1,1.8,74.8,96%,device_1894_normal,0
+ORD-10073,CUST-1073,Võ Thanh Tùng,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",2.0,3.8,1.66,73.7,77%,device_7275_normal,0
+ORD-10762,CUST-1212,Lâm Hồng Nhung,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,9.3,1.45,10.4,79%,device_4288_normal,0
+ORD-10057,CUST-1057,Bùi Gia Huy,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Sản phẩm cắm nguồn không nhận điện,0.0,8.9,1.14,1.1,88%,device_4114_normal,0
+ORD-10331,CUST-1331,Lý Đức Trí,Khách Hàng Bạc,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Vải áo mỏng và có vệt ố màu ở cổ,2.0,10.2,2.08,4.7,70%,device_4470_normal,0
+ORD-10660,CUST-1110,Đỗ Mỹ Duyên,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Bàn phím bị kẹt liệt hàng phím số,1.0,7.1,1.39,12.0,93%,device_2124_normal,0
+ORD-10821,CUST-1271,Bùi Quang Vinh,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Loa rè âm bass và sập nguồn liên tục,0.0,0.4,0.6,70.9,80%,device_3347_normal,0
+ORD-10050,CUST-1050,Phạm Hải Đăng,Khách Hàng Bạc,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,3.0,6.9,0.6,3.7,93%,device_3532_normal,0
+ORD-10217,CUST-1217,Trần Văn Lâm,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Tai nghe bên trái không sạc được pin,1.0,14.9,1.18,34.6,92%,device_9452_normal,0
+ORD-10133,CUST-1133,Ngô Minh Khôi,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,17.6,1.5,2.8,78%,device_6546_normal,0
+ORD-10583,CUST-1033,Hoàng Thị Mai,Khách Hàng Bạc,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,350000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,8.2,1.26,95.4,75%,device_5695_normal,0
+ORD-10817,CUST-1267,Huỳnh Nhật Nam,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,8.9,2.09,11.5,95%,device_6050_normal,0
+ORD-10752,CUST-1202,Ngô Hữu Thắng,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,11.9,0.6,35.8,76%,device_8993_normal,0
+ORD-10750,CUST-1200,Lê Cẩm Tú,Khách Hàng Vàng,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,17.3,1.39,10.1,80%,device_2352_normal,0
+ORD-10333,CUST-1333,Hồ Quang Vinh,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,2953500,Trục ép kẹt cứng không quay được khi cho hoa quả,2.0,7.7,0.6,23.7,90%,device_6886_normal,0
+ORD-10464,CUST-1464,Huỳnh Văn Hùng,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,11.8,1.79,5.1,94%,device_5602_normal,0
+ORD-10638,CUST-1088,Lê Đức Trí,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,4.8,1.24,3.8,96%,device_7730_normal,0
+ORD-10672,CUST-1122,Trịnh Văn Hùng,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,2.5,1.57,66.8,81%,device_6167_normal,0
+ORD-10045,CUST-1045,Bùi Đức Trí,Khách Hàng Bạc,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,5.3,0.74,59.9,78%,device_1832_normal,0
+ORD-10338,CUST-1338,Võ Hữu Thắng,Khách Hàng Bạc,Đồng Hồ Nam Dây Da Chống Nước,750000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,19.9,2.13,52.4,84%,device_3756_normal,0
+ORD-10006,CUST-1006,Dương Quỳnh Chi,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Tai nghe bên trái không sạc được pin,0.0,12.0,1.98,23.6,90%,device_6925_normal,0
+ORD-10609,CUST-1059,Đặng Văn Lâm,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,852000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,2.7,1.68,39.6,90%,device_7113_normal,0
+ORD-10276,CUST-1276,Huỳnh Ngọc Ánh,Khách Hàng Mới,Đồng Hồ Nam Dây Da Chống Nước,750000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,12.4,1.22,1.7,86%,device_9351_normal,0
+ORD-10644,CUST-1094,Đinh Gia Huy,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Gối có mùi cao su nồng gắt gây khó chịu,2.0,2.9,1.68,9.8,77%,device_8899_normal,0
+ORD-10465,CUST-1465,Trần Hoài An,Khách Hàng Mới,Máy Tăm Nước Cầm Tay Du Lịch,620000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,10.1,0.84,9.0,77%,device_3615_normal,0
+ORD-10492,CUST-1492,Hồ Hải Đăng,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,680000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,3.5,1.86,24.2,96%,device_5400_normal,0
+ORD-10676,CUST-1126,Đinh Bảo Vy,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,2.6,2.37,10.6,82%,device_2650_normal,0
+ORD-10725,CUST-1175,Lê Mỹ Duyên,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Trục ép kẹt cứng không quay được khi cho hoa quả,2.0,22.1,2.0,3.9,91%,device_9151_normal,0
+ORD-10851,CUST-1301,Mai Văn Hùng,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,5.9,0.83,21.8,74%,device_2387_normal,0
+ORD-10472,CUST-1472,Bùi Thị Mai,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,507000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,11.8,1.53,40.4,97%,device_9622_normal,0
+ORD-10084,CUST-1084,Nguyễn Cẩm Ly,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Sản phẩm cắm nguồn không nhận điện,1.0,7.9,0.6,11.6,76%,device_8619_normal,0
+ORD-10030,CUST-1030,Trần Ngọc Ánh,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Sản phẩm cắm nguồn không nhận điện,0.0,3.1,1.67,3.4,76%,device_9786_normal,0
+ORD-10158,CUST-1158,Ngô Nhật Nam,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,6.4,1.59,5.3,96%,device_9017_normal,0
+ORD-10332,CUST-1332,Phan Duy Khoa,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,380000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,3.1,0.6,6.5,92%,device_4350_normal,0
+ORD-10858,CUST-1308,Mai Quỳnh Chi,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,32.8,0.6,8.6,80%,device_9765_normal,0
+ORD-10109,CUST-1109,Lê Thu Hà,Kim Cương VIP,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,13.3,1.12,24.7,92%,device_8699_normal,0
+ORD-10605,CUST-1055,Ngô Thanh Tùng,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,7.8,1.1,22.0,89%,device_2036_normal,0
+ORD-10383,CUST-1383,Hồ Văn Lâm,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,374100,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,11.4,0.6,28.6,89%,device_4232_normal,0
+ORD-10404,CUST-1404,Mai Gia Huy,Khách Hàng Vàng,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,12.7,1.55,10.8,94%,device_2525_normal,0
+ORD-10125,CUST-1125,Võ Gia Huy,Khách Hàng Bạc,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,12.8,1.46,41.7,74%,device_7284_normal,0
+ORD-10697,CUST-1147,Huỳnh Nhật Nam,Khách Hàng Vàng,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,12.4,1.17,5.5,88%,device_8126_normal,0
+ORD-10698,CUST-1148,Đinh Văn Lâm,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,2.0,11.7,0.81,15.2,77%,device_2467_normal,0
+ORD-10292,CUST-1292,Nguyễn Quỳnh Chi,Khách Hàng Mới,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,1.0,8.3,1.98,38.7,98%,device_8793_normal,0
+ORD-10027,CUST-1027,Lê Kim Oanh,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Tai nghe bên trái không sạc được pin,0.0,21.0,2.38,4.8,98%,device_8744_normal,0
+ORD-10337,CUST-1337,Phan Thanh Tùng,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,171600,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,8.7,0.99,2.8,91%,device_6530_normal,0
+ORD-10097,CUST-1097,Đặng Cẩm Tú,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Vải áo mỏng và có vệt ố màu ở cổ,3.0,8.0,0.9,51.6,81%,device_8753_normal,0
+ORD-10694,CUST-1144,Trịnh Hoàng Nam,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,358400,Vải áo mỏng và có vệt ố màu ở cổ,0.0,8.7,1.62,10.1,93%,device_5655_normal,0
+ORD-10511,CUST-1511,Đinh Hồng Nhung,Khách Hàng Vàng,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Bàn phím bị kẹt liệt hàng phím số,1.0,9.2,1.07,27.6,76%,device_1944_normal,0
+ORD-10787,CUST-1237,Huỳnh Gia Huy,Kim Cương VIP,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Loa rè âm bass và sập nguồn liên tục,0.0,1.5,1.21,1.0,84%,device_8400_normal,0
+ORD-10253,CUST-1253,Lâm Quốc Bảo,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,3019500,Khóa kéo balo bị gãy răng cưa khi thử,1.0,3.7,1.78,28.1,86%,device_6644_normal,0
+ORD-10079,CUST-1079,Huỳnh Phương Thảo,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,7.1,0.6,9.1,82%,device_1444_normal,0
+ORD-10427,CUST-1427,Mai Quỳnh Chi,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Màn hình bị sọc ngang khi vừa bật nguồn,2.0,1.5,2.16,1.4,72%,device_9377_normal,0
+ORD-10585,CUST-1035,Trần Hải Đăng,Khách Hàng Bạc,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Cối xay rò rỉ nước ở chân đế trục dao,3.0,7.8,1.35,22.6,93%,device_4675_normal,0
+ORD-10786,CUST-1236,Phan Thảo Nhi,Khách Hàng Vàng,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,9.1,1.03,6.6,79%,device_8558_normal,0
+ORD-10539,CUST-1539,Bùi Gia Huy,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,2.4,1.24,11.7,85%,device_6885_normal,0
+ORD-10005,CUST-1005,Bùi Minh Anh,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,3.0,4.6,1.28,2.0,95%,device_1711_normal,0
+ORD-10598,CUST-1048,Trần Mỹ Duyên,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,1.0,18.1,0.6,3.8,82%,device_5203_normal,0
+ORD-10218,CUST-1218,Phạm Thảo Nhi,Kim Cương VIP,Bàn Phím Cơ Không Dây RGB Tri-Mode,890000,Loa rè âm bass và sập nguồn liên tục,0.0,11.5,2.27,8.5,83%,device_2502_normal,0
+ORD-10600,CUST-1050,Dương Đình Trọng,Kim Cương VIP,Bộ Ga Gối Cotton Tencel Cao Cấp,1053000,Con lăn chuột bị kẹt rít khi cuộn trang,1.0,11.0,1.33,2.3,73%,device_3742_normal,0
+ORD-10680,CUST-1130,Phạm Duy Khoa,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,16.6,1.59,58.0,95%,device_3450_normal,0
+ORD-10577,CUST-1027,Bùi Thảo Nhi,Khách Hàng Vàng,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,3.8,1.92,1.0,92%,device_9393_normal,0
+ORD-10280,CUST-1280,Lâm Đình Trọng,Kim Cương VIP,Bình Giữ Nhiệt Khắc Tên Inox 316,194300,Đế giày sneaker bị hở keo ở mũi chân,1.0,2.4,0.64,15.9,74%,device_4968_normal,0
+ORD-10843,CUST-1293,Bùi Đình Trọng,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",3.0,15.2,1.61,3.2,74%,device_1003_normal,0
+ORD-10521,CUST-1521,Đỗ Quỳnh Chi,Khách Hàng Vàng,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Vải áo mỏng và có vệt ố màu ở cổ,3.0,7.2,1.13,8.8,73%,device_8892_normal,0
+ORD-10768,CUST-1218,Vũ Kim Oanh,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,408000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,3.7,1.85,62.5,96%,device_1482_normal,0
+ORD-10173,CUST-1173,Phạm Thanh Tùng,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,1.5,0.6,4.2,74%,device_8770_normal,0
+ORD-10185,CUST-1185,Ngô Minh Anh,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Loa rè âm bass và sập nguồn liên tục,4.0,8.8,1.24,81.0,71%,device_4612_normal,0
+ORD-10291,CUST-1291,Mai Cẩm Tú,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Chất kem mỹ phẩm tách nước đổi màu bất thường,2.0,6.6,0.91,5.5,94%,device_3252_normal,0
+ORD-10890,CUST-1340,Hoàng Thị Mai,Kim Cương VIP,Đồng Hồ Nam Dây Da Chống Nước,2084999,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,5.7,1.58,32.5,72%,device_9856_normal,0
+ORD-10209,CUST-1209,Đinh Hải Đăng,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Bàn phím bị kẹt liệt hàng phím số,3.0,0.6,1.61,19.0,94%,device_8967_normal,0
+ORD-10096,CUST-1096,Đoàn Hữu Thắng,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,330000,Chất kem mỹ phẩm tách nước đổi màu bất thường,2.0,20.9,0.84,51.8,70%,device_2524_normal,0
+ORD-10358,CUST-1358,Vũ Bích Ngọc,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,790000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,1.9,0.84,19.4,74%,device_7383_normal,0
+ORD-10127,CUST-1127,Bùi Quang Vinh,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,1.0,6.2,1.23,18.4,79%,device_9022_normal,0
+ORD-10152,CUST-1152,Phạm Bảo Vy,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Đế giày sneaker bị hở keo ở mũi chân,0.0,5.4,0.72,5.2,97%,device_7511_normal,0
+ORD-10888,CUST-1338,Mai Đức Trí,Kim Cương VIP,Giày Thể Thao Nam Sneaker Runner,408000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,11.7,1.85,4.4,92%,device_7391_normal,0
+ORD-10738,CUST-1188,Phan Ngọc Ánh,Khách Hàng Bạc,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,1.6,1.06,59.6,84%,device_8331_normal,0
+ORD-10867,CUST-1317,Lâm Duy Khoa,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Robot báo lỗi cảm biến laser Lidar liên tục,1.0,10.8,0.6,9.5,96%,device_2900_normal,0
+ORD-10116,CUST-1116,Võ Nhật Nam,Kim Cương VIP,Balo Laptop Chống Nước Đa Năng,380000,Loa rè âm bass và sập nguồn liên tục,0.0,8.8,1.06,11.2,78%,device_3973_normal,0
+ORD-10469,CUST-1469,Đỗ Nhật Nam,Khách Hàng Vàng,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Bàn phím bị kẹt liệt hàng phím số,0.0,4.4,0.62,34.2,95%,device_9064_normal,0
+ORD-10497,CUST-1497,Lâm Mỹ Duyên,Khách Hàng Mới,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Sản phẩm cắm nguồn không nhận điện,0.0,10.5,0.6,9.9,84%,device_3832_normal,0
+ORD-10575,CUST-1025,Lâm Thu Hà,Khách Hàng Bạc,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Sản phẩm cắm nguồn không nhận điện,0.0,7.8,0.6,72.9,89%,device_6273_normal,0
+ORD-10727,CUST-1177,Đinh Mỹ Duyên,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,656200,Lòng nồi bị trầy xước lớp chống dính,2.0,24.1,1.37,32.1,76%,device_2753_normal,0
+ORD-10366,CUST-1366,Bùi Bảo Vy,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,6.6,2.16,21.8,74%,device_5922_normal,0
+ORD-10453,CUST-1453,Đinh Thị Mai,Khách Hàng Bạc,Chuột Gaming Không Dây Siêu Nhẹ,790000,Lòng nồi bị trầy xước lớp chống dính,0.0,3.3,1.5,51.1,82%,device_8408_normal,0
+ORD-10042,CUST-1042,Đỗ Thảo Nhi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,10.8,0.91,1.2,95%,device_9666_normal,0
+ORD-10507,CUST-1507,Đặng Thảo Nhi,Kim Cương VIP,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,484000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,6.0,1.6,7.1,97%,device_4734_normal,0
+ORD-10119,CUST-1119,Đoàn Thị Mai,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,7.7,1.0,15.0,94%,device_7622_normal,0
+ORD-10479,CUST-1479,Mai Hồng Nhung,Khách Hàng Mới,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Gối có mùi cao su nồng gắt gây khó chịu,0.0,2.4,0.85,6.2,93%,device_6500_normal,0
+ORD-10723,CUST-1173,Lê Kim Oanh,Kim Cương VIP,Máy Sấy Tóc Ion Âm Tốc Độ Cao,676800,Tai nghe bên trái không sạc được pin,0.0,11.8,0.6,32.7,70%,device_9289_normal,0
+ORD-10168,CUST-1168,Đinh Thảo Nhi,Khách Hàng Vàng,Áo Thun Nam Cotton Shopee Choice,149000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,5.2,0.6,60.4,97%,device_7580_normal,0
+ORD-10482,CUST-1482,Đỗ Quỳnh Chi,Khách Hàng Vàng,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,9.4,1.05,13.2,88%,device_4695_normal,0
+ORD-10037,CUST-1037,Huỳnh Quốc Bảo,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Pin sạc không nhận dòng điện qua cổng Type-C,0.0,28.1,1.4,10.1,98%,device_5033_normal,0
+ORD-10188,CUST-1188,Đinh Quỳnh Chi,Khách Hàng Bạc,Nồi Chiên Không Dầu Điện Tử 6L,1450000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,2.0,6.3,1.24,78.2,97%,device_1693_normal,0
+ORD-10236,CUST-1236,Ngô Hồng Nhung,Khách Hàng Vàng,Tai Nghe True Wireless Nhét Tai,390000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,13.0,1.03,14.1,75%,device_9129_normal,0
+ORD-10056,CUST-1056,Võ Thu Hà,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Giao nhầm kích cỡ (đặt size L giao size M),1.0,6.6,0.69,16.1,83%,device_6663_normal,0
+ORD-10153,CUST-1153,Đoàn Hải Đăng,Kim Cương VIP,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Tai nghe bên trái không sạc được pin,1.0,4.4,1.7,10.4,81%,device_5295_normal,0
+ORD-10194,CUST-1194,Đỗ Duy Khoa,Khách Hàng Mới,Bình Giữ Nhiệt Khắc Tên Inox 316,290000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,18.5,0.6,57.7,74%,device_5193_normal,0
+ORD-10055,CUST-1055,Đỗ Văn Lâm,Khách Hàng Vàng,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Tai nghe bên trái không sạc được pin,1.0,1.1,1.8,20.2,70%,device_2889_normal,0
+ORD-10451,CUST-1451,Dương Thảo Nhi,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,Sản phẩm cắm nguồn không nhận điện,0.0,15.3,0.65,34.5,95%,device_5984_normal,0
+ORD-10818,CUST-1268,Bùi Bích Ngọc,Kim Cương VIP,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Pin sạc không nhận dòng điện qua cổng Type-C,3.0,0.9,0.81,40.1,96%,device_5958_normal,0
+ORD-10652,CUST-1102,Hồ Duy Khoa,Kim Cương VIP,Giày Cao Gót Nữ Mũi Nhọn 7cm,787500,Bình đun nước tự ngắt sớm trước khi sôi,0.0,14.3,0.6,10.0,95%,device_3650_normal,0
+ORD-10674,CUST-1124,Đinh Tuấn Kiệt,Khách Hàng Vàng,Balo Laptop Chống Nước Đa Năng,380000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,7.8,0.97,13.6,86%,device_7933_normal,0
+ORD-10874,CUST-1324,Lê Văn Hùng,Khách Hàng Vàng,Máy Tăm Nước Cầm Tay Du Lịch,620000,Sản phẩm cắm nguồn không nhận điện,0.0,3.3,1.93,45.3,81%,device_4594_normal,0
+ORD-10570,CUST-1020,Đoàn Kim Oanh,Khách Hàng Vàng,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Giao nhầm kích cỡ (đặt size L giao size M),4.0,5.5,1.64,10.8,85%,device_3301_normal,0
+ORD-10155,CUST-1155,Trịnh Hồng Nhung,Khách Hàng Mới,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,12.5,1.94,37.9,72%,device_8606_normal,0
+ORD-10783,CUST-1233,Hồ Cẩm Ly,Khách Hàng Mới,Áo Sơ Mi Nam Công Sở Chống Nhăn,260000,Cối xay rò rỉ nước ở chân đế trục dao,1.0,26.4,1.64,67.9,90%,device_1630_normal,0
+ORD-10504,CUST-1504,Mai Đình Trọng,Khách Hàng Vàng,Máy Cạo Râu 3 Lưỡi Kép Kháng Nước,550000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,1.6,0.6,23.4,82%,device_3356_normal,0
+ORD-10755,CUST-1205,Ngô Hải Đăng,Khách Hàng Vàng,Máy Ép Chậm Trục Ngang Đa Năng,1650000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,3.5,1.08,32.5,70%,device_5994_normal,0
+ORD-10324,CUST-1324,Trần Quỳnh Chi,Khách Hàng Mới,Bộ Ga Gối Cotton Tencel Cao Cấp,650000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,2.2,0.79,39.2,90%,device_7999_normal,0
+ORD-10169,CUST-1169,Ngô Mỹ Duyên,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,418500,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",2.0,6.6,2.16,44.8,80%,device_3430_normal,0
+ORD-10447,CUST-1447,Dương Duy Khoa,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,420000,Robot báo lỗi cảm biến laser Lidar liên tục,0.0,14.5,0.6,12.1,72%,device_2020_normal,0
+ORD-10530,CUST-1530,Lý Hồng Nhung,Kim Cương VIP,Bộ Serum Dưỡng Da Cấp Ẩm Phục Hồi,445200,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,1.9,1.88,1.3,83%,device_1885_normal,0
+ORD-10271,CUST-1271,Trần Nhật Nam,Khách Hàng Vàng,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Tai nghe bên trái không sạc được pin,0.0,7.6,1.88,12.3,82%,device_9261_normal,0
+ORD-10780,CUST-1230,Ngô Hữu Thắng,Khách Hàng Mới,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Màn hình bị sọc ngang khi vừa bật nguồn,0.0,14.2,2.49,26.9,77%,device_4323_normal,0
+ORD-10850,CUST-1300,Đỗ Phương Thảo,Khách Hàng Vàng,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gãy đót ngọn cần câu khi mở ống nhựa,1.0,5.4,1.03,14.4,70%,device_2175_normal,0
+ORD-10628,CUST-1078,Phan Kim Oanh,Khách Hàng Mới,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,1890000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,8.9,1.76,33.2,84%,device_1760_normal,0
+ORD-10270,CUST-1270,Phạm Gia Huy,Kim Cương VIP,Chuột Gaming Không Dây Siêu Nhẹ,900599,Đế giày sneaker bị hở keo ở mũi chân,1.0,17.6,2.78,10.6,71%,device_7563_normal,0
+ORD-10898,CUST-1348,Lâm Quỳnh Chi,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,503200,Bàn phím bị kẹt liệt hàng phím số,0.0,2.9,0.9,24.2,88%,device_3841_normal,0
+ORD-10290,CUST-1290,Trịnh Duy Khoa,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,1.2,0.6,5.0,86%,device_4697_normal,0
+ORD-10441,CUST-1441,Đặng Thanh Tùng,Kim Cương VIP,Tai Nghe True Wireless Nhét Tai,390000,Bàn phím bị kẹt liệt hàng phím số,0.0,9.7,0.6,33.2,95%,device_5979_normal,0
+ORD-10370,CUST-1370,Huỳnh Mỹ Duyên,Khách Hàng Bạc,Áo Thun Nam Cotton Shopee Choice,149000,Bình đun nước tự ngắt sớm trước khi sôi,0.0,9.9,1.76,18.9,92%,device_4434_normal,0
+ORD-10766,CUST-1216,Đoàn Quang Vinh,Khách Hàng Bạc,Giày Thể Thao Nam Sneaker Runner,680000,Pin sạc không nhận dòng điện qua cổng Type-C,1.0,5.1,0.6,5.5,79%,device_6465_normal,0
+ORD-10288,CUST-1288,Hoàng Thảo Nhi,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,4.3,1.06,8.3,93%,device_8849_normal,0
+ORD-10855,CUST-1305,Đinh Tuấn Kiệt,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Áp lực tăm nước yếu không đẩy được cặn bẩn,0.0,7.9,1.58,33.1,71%,device_8917_normal,0
+ORD-10893,CUST-1343,Dương Mỹ Duyên,Khách Hàng Bạc,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Bình bị rò rỉ nước ở nắp gioăng cao su,2.0,2.9,1.42,15.8,77%,device_2180_normal,0
+ORD-10512,CUST-1512,Vũ Thị Mai,Khách Hàng Vàng,Bình Đun Nước Siêu Tốc Thủy Tinh 1.8L,320000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,3.0,2.9,1.58,5.8,78%,device_7035_normal,0
+ORD-10131,CUST-1131,Mai Hoàng Nam,Khách Hàng Vàng,Giày Thể Thao Nam Sneaker Runner,680000,Bình bị rò rỉ nước ở nắp gioăng cao su,0.0,12.5,1.44,82.1,88%,device_6439_normal,0
+ORD-10046,CUST-1046,Lê Văn Lâm,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,2.7,2.13,30.1,94%,device_3143_normal,0
+ORD-10321,CUST-1321,Hồ Bảo Vy,Kim Cương VIP,Pin Sạc Dự Phòng 20000mAh Sạc Nhanh,826000,Đế giày sneaker bị hở keo ở mũi chân,1.0,1.3,0.68,75.6,86%,device_5739_normal,0
+ORD-10120,CUST-1120,Đinh Phương Thảo,Khách Hàng Mới,Bộ Cần Câu Lure Carbon Cao Cấp,1420000,Tai nghe bên trái không sạc được pin,0.0,4.3,0.86,13.4,71%,device_4073_normal,0
+ORD-10146,CUST-1146,Đặng Hữu Thắng,Khách Hàng Bạc,Serum B5 Phục Hồi Da Nhạy Cảm,380000,Màu sắc thực tế sai lệch nhiều so với ảnh livestream,0.0,5.2,0.8,15.5,90%,device_4115_normal,0
+ORD-10444,CUST-1444,Đoàn Hải Đăng,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,10.8,1.84,54.8,70%,device_7164_normal,0
+ORD-10544,CUST-1544,Phạm Quỳnh Chi,Kim Cương VIP,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Gối có mùi cao su nồng gắt gây khó chịu,1.0,4.6,1.89,17.9,70%,device_5933_normal,0
+ORD-10728,CUST-1178,Lý Đức Trí,Kim Cương VIP,Áo Sơ Mi Nam Công Sở Chống Nhăn,694200,Trục ép kẹt cứng không quay được khi cho hoa quả,1.0,19.6,1.59,29.5,86%,device_5193_normal,0
+ORD-10325,CUST-1325,Đoàn Đình Trọng,Kim Cương VIP,Bộ Nồi Chảo Inox 5 Đáy Bếp Từ,2097900,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,8.2,2.07,7.0,86%,device_6222_normal,0
+ORD-10092,CUST-1092,Lâm Tuấn Kiệt,Khách Hàng Vàng,Váy Dạ Hội Thiết Kế Dáng Xòe,520000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,3.8,0.6,14.2,84%,device_4995_normal,0
+ORD-10480,CUST-1480,Dương Văn Hùng,Kim Cương VIP,Váy Dạ Hội Thiết Kế Dáng Xòe,899600,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,0.0,10.4,2.38,3.2,73%,device_1020_normal,0
+ORD-10899,CUST-1349,Bùi Quốc Bảo,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,937500,Lòng nồi bị trầy xước lớp chống dính,1.0,19.4,2.29,5.5,87%,device_3703_normal,0
+ORD-10348,CUST-1348,Lê Ngọc Ánh,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Chất kem mỹ phẩm tách nước đổi màu bất thường,0.0,12.2,1.78,1.0,70%,device_3807_normal,0
+ORD-10505,CUST-1505,Trịnh Cẩm Ly,Khách Hàng Bạc,Áo Khoác Gió Nam 2 Lớp Chống Nước,280000,Giao nhầm kích cỡ (đặt size L giao size M),0.0,1.8,2.46,1.0,98%,device_6431_normal,0
+ORD-10516,CUST-1516,Trần Thu Hà,Khách Hàng Bạc,Balo Laptop Chống Nước Đa Năng,380000,Bàn phím bị kẹt liệt hàng phím số,1.0,5.6,0.6,90.8,90%,device_4688_normal,0
+ORD-10174,CUST-1174,Lê Quốc Bảo,Khách Hàng Bạc,Tai Nghe Chống Ồn Bluetooth Pro ANC,1450000,Đáy chảo bị cong vênh không bắt nhiệt bếp từ,0.0,9.3,0.96,6.7,93%,device_7105_normal,0
+ORD-10267,CUST-1267,Phan Hữu Thắng,Kim Cương VIP,Máy Tăm Nước Cầm Tay Du Lịch,620000,Vải áo mỏng và có vệt ố màu ở cổ,1.0,11.9,0.82,26.1,72%,device_7442_normal,0
+ORD-10184,CUST-1184,Lý Cẩm Ly,Khách Hàng Vàng,Chuột Gaming Không Dây Siêu Nhẹ,790000,Bàn phím bị kẹt liệt hàng phím số,0.0,6.6,1.77,43.8,73%,device_6655_normal,0
+ORD-10595,CUST-1045,Đinh Thu Hà,Khách Hàng Vàng,Máy Xay Sinh Tố Cầm Tay 6 Lưỡi Dao,310000,Trục ép kẹt cứng không quay được khi cho hoa quả,0.0,5.9,0.62,19.2,77%,device_4495_normal,0
+ORD-10043,CUST-1043,Nguyễn Mỹ Duyên,Khách Hàng Bạc,Máy Sấy Tóc Ion Âm Tốc Độ Cao,720000,Gãy đót ngọn cần câu khi mở ống nhựa,0.0,24.0,1.79,4.0,98%,device_3200_normal,0
+ORD-10573,CUST-1023,Dương Bảo Vy,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Bình bị rò rỉ nước ở nắp gioăng cao su,1.0,12.3,2.19,31.3,70%,device_9689_normal,0
+ORD-10136,CUST-1136,Trịnh Quốc Bảo,Kim Cương VIP,Bộ Cần Câu Lure Carbon Cao Cấp,1363200,Pin sạc không nhận dòng điện qua cổng Type-C,2.0,10.5,1.75,22.0,83%,device_2612_normal,0
+ORD-10380,CUST-1380,Lý Minh Anh,Khách Hàng Vàng,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Khóa kéo balo bị gãy răng cưa khi thử,2.0,4.8,1.48,31.5,79%,device_1732_normal,0
+ORD-10688,CUST-1138,Mai Cẩm Ly,Khách Hàng Vàng,Giày Cao Gót Nữ Mũi Nhọn 7cm,450000,"Vỏ hộp móp méo, bể vỡ phụ kiện bên trong",0.0,2.8,0.66,35.2,80%,device_4739_normal,0
+ORD-10405,CUST-1405,Hồ Kim Oanh,Khách Hàng Bạc,Gối Cao Su Non Chống Thoái Hóa Cổ,310000,Máy sấy tóc phát ra mùi khét nhẹ ở mức gió cao,1.0,10.6,0.75,88.9,85%,device_6362_normal,0
+ORD-10310,CUST-1310,Dương Hoài An,Kim Cương VIP,Nồi Cơm Điện Tử Cao Tần 1.8L,1250000,Khóa kéo balo bị gãy răng cưa khi thử,0.0,13.3,2.11,20.5,87%,device_8575_normal,0
+ORD-10391,CUST-1391,Lý Thảo Nhi,Kim Cương VIP,Máy Ép Chậm Trục Ngang Đa Năng,3003000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,7.6,1.81,10.0,81%,device_1157_normal,0
+ORD-10635,CUST-1085,Phan Nhật Nam,Kim Cương VIP,Quần Jean Nam Dáng Slimfit Co Giãn,340000,Pin sạc không nhận dòng điện qua cổng Type-C,2.0,12.4,1.27,25.1,88%,device_3639_normal,0
+ORD-10517,CUST-1517,Phan Tuấn Kiệt,Khách Hàng Bạc,Máy Tăm Nước Cầm Tay Du Lịch,620000,Áo bị bung đường chỉ may ở cánh tay khi mở gói,0.0,12.6,1.03,1.7,94%,device_1145_normal,0
+ORD-10260,CUST-1260,Mai Đức Trí,Khách Hàng Bạc,Kem Dưỡng Trắng Da Mờ Thâm Nám,490000,Cối xay rò rỉ nước ở chân đế trục dao,0.0,13.9,0.6,54.6,85%,device_9938_normal,0
+ORD-10990,CUST-7090,Võ Kim Oanh (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3650708,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),1.0,29.8,3.17,1.0,15%,BLACKLIST_DEVICE_908,1
+ORD-10968,CUST-7068,Trần Văn Hùng (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,9631234,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,3.0,47.4,1.1,1.0,36%,SHARED_DEVICE_RING_99,1
+ORD-10901,CUST-7001,Huỳnh Văn Hùng (Gian Lận),Khách Hàng Bạc,Flycam Mini Quay Phim 4K Gimbal 3 Trục,10379208,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,4.0,29.2,2.7,2.5,30%,FRAUD_CLUSTER_HASH_77,1
+ORD-10930,CUST-7030,Dương Quang Vinh (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,32188621,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),4.0,35.7,1.41,12.0,42%,SUSPICIOUS_EMULATOR_11,1
+ORD-10973,CUST-7073,Phan Thảo Nhi (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,11556570,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,3.0,69.5,2.36,68.0,18%,CLONE_FARM_DEVICE_01,1
+ORD-10948,CUST-7048,Dương Quang Vinh (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,9901038,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,15.6,3.4,88.0,40%,CLONE_FARM_DEVICE_01,1
+ORD-10928,CUST-7028,Vũ Minh Anh (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,22370239,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,5.0,10.0,5.81,1.0,14%,SUSPICIOUS_EMULATOR_11,1
+ORD-10920,CUST-7020,Phan Hữu Thắng (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,6683205,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,48.8,4.16,2.5,16%,SUSPICIOUS_EMULATOR_11,1
+ORD-10933,CUST-7033,Đinh Cẩm Tú (Gian Lận),Khách Hàng Bạc,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,8706747,Báo bị tráo cục gạch/cục đá thay vì điện thoại,5.0,26.8,4.38,2.5,44%,FRAUD_CLUSTER_HASH_77,1
+ORD-10939,CUST-7039,Hồ Thảo Nhi (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,30715700,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,1.0,32.2,1.29,2.5,41%,BLACKLIST_DEVICE_908,1
+ORD-10908,CUST-7008,Bùi Cẩm Tú (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3993454,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,4.0,25.3,1.76,1.0,15%,FRAUD_CLUSTER_HASH_77,1
+ORD-10976,CUST-7076,Mai Bích Ngọc (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,8819751,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,5.0,33.1,7.66,88.0,29%,CLONE_FARM_DEVICE_01,1
+ORD-10910,CUST-7010,Bùi Hoàng Nam (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,18939144,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,2.0,61.0,2.08,88.0,22%,SUSPICIOUS_EMULATOR_11,1
+ORD-10963,CUST-7063,Huỳnh Ngọc Ánh (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,19029674,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,3.0,49.0,7.34,2.5,43%,FRAUD_CLUSTER_HASH_77,1
+ORD-10994,CUST-7094,Vũ Văn Hùng (Gian Lận),Khách Hàng Bạc,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,19120904,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,2.0,49.9,3.17,12.0,28%,BLACKLIST_DEVICE_908,1
+ORD-10927,CUST-7027,Đỗ Thảo Nhi (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,8950126,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,4.0,15.8,3.71,1.0,21%,BLACKLIST_DEVICE_908,1
+ORD-10934,CUST-7034,Phan Đình Trọng (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,22644757,Báo nhận kiện hàng rỗng không có ruột bên trong,3.0,19.7,6.05,2.5,39%,SUSPICIOUS_EMULATOR_11,1
+ORD-10922,CUST-7022,Trịnh Hải Đăng (Gian Lận),Khách Hàng Bạc,Flycam Mini Quay Phim 4K Gimbal 3 Trục,11216426,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,4.0,10.0,6.5,12.0,16%,SHARED_DEVICE_RING_99,1
+ORD-10929,CUST-7029,Đỗ Hoàng Nam (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,21288073,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),2.0,24.9,3.46,2.5,43%,BLACKLIST_DEVICE_908,1
+ORD-10945,CUST-7045,Phạm Cẩm Ly (Gian Lận),Khách Hàng Bạc,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,16979205,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,2.0,51.4,2.85,88.0,29%,SUSPICIOUS_EMULATOR_11,1
+ORD-10954,CUST-7054,Phan Bích Ngọc (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,8621513,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),1.0,44.8,3.58,12.0,44%,FRAUD_CLUSTER_HASH_77,1
+ORD-10941,CUST-7041,Lý Quang Vinh (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,5923950,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,33.7,4.44,2.5,35%,CLONE_FARM_DEVICE_01,1
+ORD-10951,CUST-7051,Phạm Thị Mai (Gian Lận),Khách Hàng Bạc,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,18764962,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,36.7,5.66,68.0,12%,SHARED_DEVICE_RING_99,1
+ORD-10909,CUST-7009,Hoàng Đức Trí (Gian Lận),Khách Hàng Bạc,Loa Bluetooth Di Động Công Suất Lớn,2088132,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,5.0,26.7,3.71,1.0,29%,BLACKLIST_DEVICE_908,1
+ORD-10938,CUST-7038,Ngô Văn Lâm (Gian Lận),Khách Hàng Bạc,Đồng Hồ Thông Minh AMOLED GPS,3103863,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,4.0,40.1,5.06,2.5,24%,BLACKLIST_DEVICE_908,1
+ORD-10980,CUST-7080,Phan Thu Hà (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,25073934,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,48.5,7.3,2.5,43%,SHARED_DEVICE_RING_99,1
+ORD-10999,CUST-7099,Hoàng Minh Khôi (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3759171,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,6.0,12.8,4.54,2.5,16%,SHARED_DEVICE_RING_99,1
+ORD-10993,CUST-7093,Huỳnh Mỹ Duyên (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,24152267,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,4.0,41.5,4.39,68.0,36%,CLONE_FARM_DEVICE_01,1
+ORD-10974,CUST-7074,Bùi Tuấn Kiệt (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,17986771,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,6.0,51.0,1.1,2.5,44%,SUSPICIOUS_EMULATOR_11,1
+ORD-10978,CUST-7078,Ngô Gia Huy (Gian Lận),Khách Hàng Mới,Flycam Mini Quay Phim 4K Gimbal 3 Trục,13266066,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,3.0,30.8,1.1,68.0,27%,FRAUD_CLUSTER_HASH_77,1
+ORD-10955,CUST-7055,Đỗ Bích Ngọc (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2514232,Báo bị tráo cục gạch/cục đá thay vì điện thoại,2.0,47.5,4.55,12.0,25%,CLONE_FARM_DEVICE_01,1
+ORD-10906,CUST-7006,Ngô Tuấn Kiệt (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,1972253,Báo nhận kiện hàng rỗng không có ruột bên trong,1.0,79.2,3.49,2.5,43%,CLONE_FARM_DEVICE_01,1
+ORD-10924,CUST-7024,Hoàng Đình Trọng (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2569429,Báo nhận kiện hàng rỗng không có ruột bên trong,4.0,35.4,2.57,68.0,26%,CLONE_FARM_DEVICE_01,1
+ORD-10904,CUST-7004,Phạm Cẩm Ly (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,18199768,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,2.0,42.9,4.24,1.0,15%,BLACKLIST_DEVICE_908,1
+ORD-10932,CUST-7032,Đoàn Minh Anh (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3670428,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,3.0,25.9,3.57,1.0,24%,CLONE_FARM_DEVICE_01,1
+ORD-10998,CUST-7098,Đặng Tuấn Kiệt (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2715302,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,3.0,39.7,6.18,2.5,12%,FRAUD_CLUSTER_HASH_77,1
+ORD-10975,CUST-7075,Ngô Mỹ Duyên (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,6927217,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,43.9,3.89,1.0,23%,SHARED_DEVICE_RING_99,1
+ORD-10972,CUST-7072,Phan Thanh Tùng (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,19139687,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,4.0,39.9,2.06,1.0,16%,CLONE_FARM_DEVICE_01,1
+ORD-10965,CUST-7065,Ngô Hồng Nhung (Gian Lận),Khách Hàng Bạc,Đồng Hồ Thông Minh AMOLED GPS,3456147,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,2.0,21.7,5.88,12.0,31%,BLACKLIST_DEVICE_908,1
+ORD-10903,CUST-7003,Huỳnh Bích Ngọc (Gian Lận),Khách Hàng Mới,Flycam Mini Quay Phim 4K Gimbal 3 Trục,13235081,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,40.1,3.22,2.5,19%,CLONE_FARM_DEVICE_01,1
+ORD-10962,CUST-7062,Dương Minh Anh (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2362655,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,4.0,58.9,4.86,2.5,43%,SHARED_DEVICE_RING_99,1
+ORD-10950,CUST-7050,Đặng Hoàng Nam (Gian Lận),Khách Hàng Mới,Flycam Mini Quay Phim 4K Gimbal 3 Trục,12304103,Báo bị tráo cục gạch/cục đá thay vì điện thoại,6.0,43.7,2.65,88.0,14%,BLACKLIST_DEVICE_908,1
+ORD-10957,CUST-7057,Trần Quốc Bảo (Gian Lận),Khách Hàng Mới,Flycam Mini Quay Phim 4K Gimbal 3 Trục,12119993,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,4.0,51.4,2.27,12.0,40%,BLACKLIST_DEVICE_908,1
+ORD-10985,CUST-7085,Đoàn Gia Huy (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,8354619,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,6.0,33.4,3.89,88.0,13%,CLONE_FARM_DEVICE_01,1
+ORD-10926,CUST-7026,Đặng Nhật Nam (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,8621384,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,4.0,48.2,3.73,1.0,15%,BLACKLIST_DEVICE_908,1
+ORD-10966,CUST-7066,Lý Gia Huy (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3503942,Báo bị tráo cục gạch/cục đá thay vì điện thoại,4.0,41.2,4.76,12.0,42%,FRAUD_CLUSTER_HASH_77,1
+ORD-10916,CUST-7016,Lâm Văn Hùng (Gian Lận),Khách Hàng Vàng,Loa Bluetooth Di Động Công Suất Lớn,2598778,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,2.0,22.7,3.11,88.0,12%,SHARED_DEVICE_RING_99,1
+ORD-10913,CUST-7013,Ngô Nhật Nam (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,26209269,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,4.0,41.8,1.1,12.0,14%,FRAUD_CLUSTER_HASH_77,1
+ORD-10989,CUST-7089,Lê Phương Thảo (Gian Lận),Khách Hàng Bạc,Loa Bluetooth Di Động Công Suất Lớn,2340138,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,4.0,22.1,2.75,68.0,18%,BLACKLIST_DEVICE_908,1
+ORD-10911,CUST-7011,Vũ Hồng Nhung (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,9483386,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,4.0,27.5,5.45,2.5,26%,SHARED_DEVICE_RING_99,1
+ORD-10988,CUST-7088,Đặng Đức Trí (Gian Lận),Khách Hàng Bạc,Máy Chơi Game Cầm Tay Oled 64GB,9877579,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,3.0,39.8,3.05,1.0,14%,SUSPICIOUS_EMULATOR_11,1
+ORD-10940,CUST-7040,Nguyễn Hoài An (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,9078603,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,41.5,3.16,2.5,38%,BLACKLIST_DEVICE_908,1
+ORD-10991,CUST-7091,Mai Bảo Vy (Gian Lận),Khách Hàng Bạc,Máy Chơi Game Cầm Tay Oled 64GB,7029596,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,3.0,19.2,5.87,2.5,22%,BLACKLIST_DEVICE_908,1
+ORD-10959,CUST-7059,Lý Mỹ Duyên (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2384489,Báo bị tráo cục gạch/cục đá thay vì điện thoại,3.0,52.8,2.13,88.0,18%,BLACKLIST_DEVICE_908,1
+ORD-10923,CUST-7023,Huỳnh Tuấn Kiệt (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,8568545,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,2.0,45.6,1.1,1.0,38%,CLONE_FARM_DEVICE_01,1
+ORD-10946,CUST-7046,Phạm Quỳnh Chi (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,7060240,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),4.0,26.4,3.35,88.0,33%,BLACKLIST_DEVICE_908,1
+ORD-10942,CUST-7042,Lý Nhật Nam (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,10245665,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,2.0,13.9,2.63,88.0,44%,CLONE_FARM_DEVICE_01,1
+ORD-10943,CUST-7043,Nguyễn Minh Khôi (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,18929785,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,1.0,34.8,1.57,1.0,22%,SHARED_DEVICE_RING_99,1
+ORD-10981,CUST-7081,Trần Minh Khôi (Gian Lận),Khách Hàng Bạc,Laptop Gaming Mỏng Nhẹ 15.6 Inch,22584669,Báo bị tráo cục gạch/cục đá thay vì điện thoại,3.0,30.3,3.31,2.5,17%,FRAUD_CLUSTER_HASH_77,1
+ORD-10918,CUST-7018,Trịnh Hồng Nhung (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,27636305,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,4.0,38.7,4.78,88.0,14%,SUSPICIOUS_EMULATOR_11,1
+ORD-10944,CUST-7044,Võ Hải Đăng (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,18205822,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,3.0,31.6,3.68,88.0,24%,BLACKLIST_DEVICE_908,1
+ORD-10936,CUST-7036,Dương Thảo Nhi (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3812615,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,2.0,10.0,4.38,2.5,21%,BLACKLIST_DEVICE_908,1
+ORD-10912,CUST-7012,Ngô Minh Khôi (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,7388110,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,31.2,7.69,2.5,27%,SUSPICIOUS_EMULATOR_11,1
+ORD-10952,CUST-7052,Phạm Quang Vinh (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,25839633,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,3.0,32.4,2.95,2.5,29%,CLONE_FARM_DEVICE_01,1
+ORD-10905,CUST-7005,Phạm Hoài An (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2362862,Yêu cầu hoàn tiền ngay lập tức không muốn gửi trả hàng,6.0,46.5,4.31,12.0,30%,BLACKLIST_DEVICE_908,1
+ORD-10921,CUST-7021,Đỗ Bảo Vy (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,20325094,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,6.0,26.5,2.58,1.0,30%,FRAUD_CLUSTER_HASH_77,1
+ORD-10996,CUST-7096,Ngô Hữu Thắng (Gian Lận),Khách Hàng Bạc,Loa Bluetooth Di Động Công Suất Lớn,2646441,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,62.2,1.84,68.0,29%,SUSPICIOUS_EMULATOR_11,1
+ORD-10961,CUST-7061,Lâm Tuấn Kiệt (Gian Lận),Khách Hàng Bạc,Đồng Hồ Thông Minh AMOLED GPS,3335804,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,3.0,10.0,2.41,1.0,29%,BLACKLIST_DEVICE_908,1
+ORD-10982,CUST-7082,Hoàng Cẩm Tú (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,21007373,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),4.0,56.7,2.65,1.0,28%,FRAUD_CLUSTER_HASH_77,1
+ORD-10970,CUST-7070,Đặng Minh Anh (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,27873014,Báo nhận kiện hàng rỗng không có ruột bên trong,1.0,33.6,4.49,2.5,44%,FRAUD_CLUSTER_HASH_77,1
+ORD-10995,CUST-7095,Trần Ngọc Ánh (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,20583293,Báo bị tráo cục gạch/cục đá thay vì điện thoại,3.0,49.9,8.87,2.5,12%,CLONE_FARM_DEVICE_01,1
+ORD-10907,CUST-7007,Phạm Quốc Bảo (Gian Lận),Khách Hàng Bạc,Loa Bluetooth Di Động Công Suất Lớn,2444727,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,3.0,38.2,2.12,2.5,26%,SHARED_DEVICE_RING_99,1
+ORD-10987,CUST-7087,Đoàn Minh Khôi (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2269085,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,6.0,54.1,2.78,2.5,17%,BLACKLIST_DEVICE_908,1
+ORD-10984,CUST-7084,Hoàng Minh Anh (Gian Lận),Khách Hàng Mới,Robot Hút Bụi Lau Nhà Tự Giặt Giẻ,9574532,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,1.0,31.2,3.56,2.5,19%,SUSPICIOUS_EMULATOR_11,1
+ORD-11000,CUST-7100,Đoàn Thị Mai (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,7074424,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,3.0,20.5,4.57,1.0,14%,SHARED_DEVICE_RING_99,1
+ORD-10967,CUST-7067,Đoàn Minh Khôi (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,26403282,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,4.0,58.3,4.28,2.5,30%,SUSPICIOUS_EMULATOR_11,1
+ORD-10931,CUST-7031,Lâm Mỹ Duyên (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,24424059,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,35.3,6.53,88.0,14%,BLACKLIST_DEVICE_908,1
+ORD-10979,CUST-7079,Vũ Minh Anh (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,24945883,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,1.0,40.3,1.1,2.5,39%,SHARED_DEVICE_RING_99,1
+ORD-10919,CUST-7019,Đỗ Thu Hà (Gian Lận),Khách Hàng Mới,Flycam Mini Quay Phim 4K Gimbal 3 Trục,12929487,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,6.0,55.5,1.1,2.5,42%,CLONE_FARM_DEVICE_01,1
+ORD-10902,CUST-7002,Lý Bích Ngọc (Gian Lận),Khách Hàng Mới,Máy Chơi Game Cầm Tay Oled 64GB,9016256,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),3.0,21.5,2.61,12.0,14%,CLONE_FARM_DEVICE_01,1
+ORD-10977,CUST-7077,Trịnh Minh Khôi (Gian Lận),Khách Hàng Bạc,Đồng Hồ Thông Minh AMOLED GPS,4076333,Báo nhận kiện hàng rỗng không có ruột bên trong,4.0,45.9,6.11,88.0,21%,SUSPICIOUS_EMULATOR_11,1
+ORD-10997,CUST-7097,Lý Ngọc Ánh (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,7410215,Gửi ảnh sản phẩm bể nát cũ tráo vào đơn hàng mới,2.0,28.2,1.1,1.0,21%,SHARED_DEVICE_RING_99,1
+ORD-10935,CUST-7035,Hồ Hải Đăng (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,20602731,Cung cấp ảnh biên bản khui hàng có dấu hiệu cắt ghép chỉnh sửa,3.0,35.0,1.1,12.0,40%,FRAUD_CLUSTER_HASH_77,1
+ORD-10958,CUST-7058,Đoàn Gia Huy (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3121644,Báo bị tráo cục gạch/cục đá thay vì điện thoại,3.0,38.1,4.96,68.0,23%,SHARED_DEVICE_RING_99,1
+ORD-10937,CUST-7037,Đặng Đình Trọng (Gian Lận),Khách Hàng Vàng,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,21361813,Báo bị tráo cục gạch/cục đá thay vì điện thoại,1.0,14.5,4.24,12.0,17%,SHARED_DEVICE_RING_99,1
+ORD-10956,CUST-7056,Vũ Gia Huy (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,18799033,Báo bị tráo cục gạch/cục đá thay vì điện thoại,1.0,25.3,1.3,1.0,30%,CLONE_FARM_DEVICE_01,1
+ORD-10964,CUST-7064,Phan Thảo Nhi (Gian Lận),Khách Hàng Mới,Loa Bluetooth Di Động Công Suất Lớn,2369123,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),5.0,57.3,1.53,12.0,13%,SHARED_DEVICE_RING_99,1
+ORD-10983,CUST-7083,Lê Cẩm Tú (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,20427944,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,2.0,50.3,1.57,1.0,39%,BLACKLIST_DEVICE_908,1
+ORD-10917,CUST-7017,Hồ Hồng Nhung (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,15065913,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,2.0,36.1,3.94,12.0,25%,SHARED_DEVICE_RING_99,1
+ORD-10947,CUST-7047,Phạm Đức Trí (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,8012091,Báo thiết bị khóa iCloud khi vừa nhận (dấu hiệu tráo máy),3.0,40.6,2.32,68.0,19%,FRAUD_CLUSTER_HASH_77,1
+ORD-10971,CUST-7071,Võ Văn Hùng (Gian Lận),Khách Hàng Mới,iPad Pro M2 11 Inch Wi-Fi 128GB,18632338,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,4.0,32.6,4.79,1.0,43%,SHARED_DEVICE_RING_99,1
+ORD-10915,CUST-7015,Phan Hoàng Nam (Gian Lận),Khách Hàng Mới,Màn Hình Đồ Họa 27 Inch 2K 144Hz,7533864,Báo bị tráo cục gạch/cục đá thay vì điện thoại,1.0,57.3,1.1,68.0,41%,CLONE_FARM_DEVICE_01,1
+ORD-10969,CUST-7069,Ngô Hải Đăng (Gian Lận),Khách Hàng Vàng,Đồng Hồ Thông Minh AMOLED GPS,3329624,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,3.0,34.0,1.81,1.0,17%,SHARED_DEVICE_RING_99,1
+ORD-10960,CUST-7060,Lê Hải Đăng (Gian Lận),Khách Hàng Vàng,Laptop Gaming Mỏng Nhẹ 15.6 Inch,19406086,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,1.0,40.5,1.22,68.0,29%,CLONE_FARM_DEVICE_01,1
+ORD-10925,CUST-7025,Mai Thanh Tùng (Gian Lận),Khách Hàng Mới,Laptop Gaming Mỏng Nhẹ 15.6 Inch,23013623,Báo rơi mất thiết bị giá trị cao do lỗi kỹ thuật,1.0,54.2,3.14,2.5,40%,FRAUD_CLUSTER_HASH_77,1
+ORD-10949,CUST-7049,Đinh Hữu Thắng (Gian Lận),Khách Hàng Vàng,Máy Chơi Game Cầm Tay Oled 64GB,9234872,Báo nhận kiện hàng rỗng không có ruột bên trong,1.0,25.3,2.52,1.0,21%,BLACKLIST_DEVICE_908,1
+ORD-10986,CUST-7086,Trần Phương Thảo (Gian Lận),Khách Hàng Mới,Điện Thoại Flagship Pro Max,29395061,Báo mất kiện hàng dù hệ thống hiển thị bưu tá đã giao thành công,5.0,60.4,5.46,1.0,35%,SHARED_DEVICE_RING_99,1
+ORD-10992,CUST-7092,Đinh Bích Ngọc (Gian Lận),Khách Hàng Vàng,Máy Chơi Game Cầm Tay Oled 64GB,9662516,Khiếu nại đồng loạt nhiều đơn giá trị cao đòi bồi hoàn ví ShopeePay,1.0,14.0,1.1,88.0,20%,SUSPICIOUS_EMULATOR_11,1
+ORD-10953,CUST-7053,Đỗ Hải Đăng (Gian Lận),Khách Hàng Mới,Máy Ảnh Mirrorless 4K Cảm Biến Lớn,20003294,Đơn hàng giá trị lệch 10x trung bình báo hàng giả đòi hoàn tiền gấp,1.0,61.4,3.8,1.0,12%,CLONE_FARM_DEVICE_01,1
+ORD-10914,CUST-7014,Đinh Thị Mai (Gian Lận),Khách Hàng Mới,Đồng Hồ Thông Minh AMOLED GPS,3493464,Báo bị tráo cục gạch/cục đá thay vì điện thoại,3.0,31.4,4.93,1.0,12%,FRAUD_CLUSTER_HASH_77,1
